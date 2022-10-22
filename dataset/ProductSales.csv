@@ -1,0 +1,1001 @@
+OrderDate,StockDate,OrderNumber,OrderQuantity,ProductName,ProductDescription,ProductColor,ProductSize,ProductStyle,ProductCost,ProductPrice,Profit,customerName,Region,Country,Continent
+01-01-2017,12/13/2003,SO61285,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,AARON GRIFFIN,Northwest,United States,North America
+01-01-2017,9/24/2003,SO61285,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,AARON GRIFFIN,Northwest,United States,North America
+01-01-2017,09-04-2003,SO61285,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,AARON GRIFFIN,Northwest,United States,North America
+01-01-2017,9/28/2003,SO61301,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ALEXANDER DAVIS,Northwest,United States,North America
+01-01-2017,10/21/2003,SO61301,1,"Road-250 Black, 52","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Black,52,U,1320.6838,2181.5625,860.8787,ALEXANDER DAVIS,Northwest,United States,North America
+01-01-2017,10/23/2003,SO61301,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,ALEXANDER DAVIS,Northwest,United States,North America
+01-01-2017,09-04-2003,SO61269,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ALEXIA PERRY,Southwest,United States,North America
+01-01-2017,10/21/2003,SO61269,1,"Long-Sleeve Logo Jersey, M",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,M,U,31.7244,48.0673,16.3429,ALEXIA PERRY,Southwest,United States,North America
+01-01-2017,10/24/2003,SO61286,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ANDREW MARTINEZ,Canada,Canada,North America
+01-01-2017,9/27/2003,SO61286,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,ANDREW MARTINEZ,Canada,Canada,North America
+01-01-2017,10/23/2003,SO61298,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,ARIANNA MORGAN,United Kingdom,United Kingdom,Europe
+01-01-2017,12-02-2003,SO61298,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,ARIANNA MORGAN,United Kingdom,United Kingdom,Europe
+01-01-2017,12/15/2003,SO61298,1,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,ARIANNA MORGAN,United Kingdom,United Kingdom,Europe
+01-01-2017,10-01-2003,SO61310,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,ASHLEE XU,Germany,Germany,Europe
+01-01-2017,11-08-2003,SO61310,1,"Road-750 Black, 58",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,58,U,343.6496,539.99,196.3404,ASHLEE XU,Germany,Germany,Europe
+01-01-2017,12-06-2003,SO61270,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,BAILEY TORRES,Australia,Australia,Pacific
+01-01-2017,10/31/2003,SO61289,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,BRIAN BROOKS,Northwest,United States,North America
+01-01-2017,11/16/2003,SO61289,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,BRIAN BROOKS,Northwest,United States,North America
+01-01-2017,11/20/2003,SO61289,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,BRIAN BROOKS,Northwest,United States,North America
+01-01-2017,10-12-2003,SO61278,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,CASSANDRA LOPEZ,United Kingdom,United Kingdom,Europe
+01-01-2017,9/28/2003,SO61278,1,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,CASSANDRA LOPEZ,United Kingdom,United Kingdom,Europe
+01-01-2017,12-10-2003,SO61278,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,CASSANDRA LOPEZ,United Kingdom,United Kingdom,Europe
+01-01-2017,9/25/2003,SO61278,1,"Road-350-W Yellow, 40","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,40,W,1082.51,1700.99,618.48,CASSANDRA LOPEZ,United Kingdom,United Kingdom,Europe
+01-01-2017,10-01-2003,SO61305,1,"Road-350-W Yellow, 48","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,48,W,1082.51,1700.99,618.48,CESAR CHANDRA,Australia,Australia,Pacific
+01-01-2017,9/13/2003,SO61283,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,CHELSEA SURI,Northwest,United States,North America
+01-01-2017,9/27/2003,SO61283,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,CHELSEA SURI,Northwest,United States,North America
+01-01-2017,09-03-2003,SO61283,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,CHELSEA SURI,Northwest,United States,North America
+01-01-2017,11/23/2003,SO61288,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,CHRISTIAN MARTIN,Canada,Canada,North America
+01-01-2017,10/30/2003,SO61288,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,CHRISTIAN MARTIN,Canada,Canada,North America
+01-01-2017,11/21/2003,SO61288,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,CHRISTIAN MARTIN,Canada,Canada,North America
+01-01-2017,11-05-2003,SO61272,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,CHRISTY LIANG,Australia,Australia,Pacific
+01-01-2017,09-08-2003,SO61272,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,CHRISTY LIANG,Australia,Australia,Pacific
+01-01-2017,11/16/2003,SO61276,3,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,COLLEEN ZHU,Australia,Australia,Pacific
+01-01-2017,10/31/2003,SO61276,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,COLLEEN ZHU,Australia,Australia,Pacific
+01-01-2017,10/21/2003,SO61294,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,EDUARDO RODRIGUEZ,Southwest,United States,North America
+01-01-2017,10/21/2003,SO61294,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,EDUARDO RODRIGUEZ,Southwest,United States,North America
+01-01-2017,09-08-2003,SO61274,3,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,EDWIN ZHU,Australia,Australia,Pacific
+01-01-2017,10-08-2003,SO61274,1,"Women's Mountain Shorts, M","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,M,W,26.1763,69.99,43.8137,EDWIN ZHU,Australia,Australia,Pacific
+01-01-2017,11-03-2003,SO61307,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ETHAN MARTINEZ,Australia,Australia,Pacific
+01-01-2017,10-06-2003,SO61307,1,"Road-350-W Yellow, 44","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,44,W,1082.51,1700.99,618.48,ETHAN MARTINEZ,Australia,Australia,Pacific
+01-01-2017,11-06-2003,SO61279,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,EVELYN GONZALEZ,United Kingdom,United Kingdom,Europe
+01-01-2017,12/14/2003,SO61279,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,EVELYN GONZALEZ,United Kingdom,United Kingdom,Europe
+01-01-2017,11/13/2003,SO61271,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,FERNANDO MARTINEZ,Australia,Australia,Pacific
+01-01-2017,9/23/2003,SO61271,1,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,FERNANDO MARTINEZ,Australia,Australia,Pacific
+01-01-2017,9/15/2003,SO61295,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,GABRIELLE PRICE,Northwest,United States,North America
+01-01-2017,12-03-2003,SO61295,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,GABRIELLE PRICE,Northwest,United States,North America
+01-01-2017,12-07-2003,SO61284,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,HUNTER WRIGHT,Southwest,United States,North America
+01-01-2017,11-01-2003,SO61284,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,HUNTER WRIGHT,Southwest,United States,North America
+01-01-2017,11-02-2003,SO61290,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,ISAIAH RIVERA,Southwest,United States,North America
+01-01-2017,11/26/2003,SO61290,1,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,ISAIAH RIVERA,Southwest,United States,North America
+01-01-2017,9/28/2003,SO61280,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,JAMIE LIANG,Southwest,United States,North America
+01-01-2017,11/26/2003,SO61309,1,"Mountain-200 Silver, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,42,U,1117.8559,2071.4196,953.5637,JASON CAMPBELL,Australia,Australia,Pacific
+01-01-2017,11-01-2003,SO61309,1,Hitch Rack - 4-Bike,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch.",NA,0,0,44.88,120,75.12,JASON CAMPBELL,Australia,Australia,Pacific
+01-01-2017,9/27/2003,SO61302,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,JONATHAN COLEMAN,Southwest,United States,North America
+01-01-2017,11/29/2003,SO61302,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,JONATHAN COLEMAN,Southwest,United States,North America
+01-01-2017,11/28/2003,SO61302,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,JONATHAN COLEMAN,Southwest,United States,North America
+01-01-2017,11-09-2003,SO61277,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,JOSHUA MILLER,Germany,Germany,Europe
+01-01-2017,10/19/2003,SO61277,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,JOSHUA MILLER,Germany,Germany,Europe
+01-01-2017,11-03-2003,SO61277,1,"Mountain-500 Silver, 48","Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Silver,48,U,308.2179,564.99,256.7721,JOSHUA MILLER,Germany,Germany,Europe
+01-01-2017,12-05-2003,SO61299,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,KEVIN ALEXANDER,Southwest,United States,North America
+01-01-2017,09-12-2003,SO61299,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,KEVIN ALEXANDER,Southwest,United States,North America
+01-01-2017,12-06-2003,SO61297,3,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,LEAH ZHENG,United Kingdom,United Kingdom,Europe
+01-01-2017,11/30/2003,SO61297,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,LEAH ZHENG,United Kingdom,United Kingdom,Europe
+01-01-2017,09-06-2003,SO61297,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,LEAH ZHENG,United Kingdom,United Kingdom,Europe
+01-01-2017,12/14/2003,SO61297,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,LEAH ZHENG,United Kingdom,United Kingdom,Europe
+01-01-2017,11/30/2003,SO61297,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,LEAH ZHENG,United Kingdom,United Kingdom,Europe
+01-01-2017,9/28/2003,SO61306,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,MARGARET GUO,Australia,Australia,Pacific
+01-01-2017,9/23/2003,SO61306,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,MARGARET GUO,Australia,Australia,Pacific
+01-01-2017,09-12-2003,SO61306,1,"Road-350-W Yellow, 40","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,40,W,1082.51,1700.99,618.48,MARGARET GUO,Australia,Australia,Pacific
+01-01-2017,9/19/2003,SO61275,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,MARIE PEREZ,Australia,Australia,Pacific
+01-01-2017,11/14/2003,SO61282,1,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,MICAH ZHOU,Southwest,United States,North America
+01-01-2017,10/13/2003,SO61308,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,MINDY XU,Australia,Australia,Pacific
+01-01-2017,10-07-2003,SO61308,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,MINDY XU,Australia,Australia,Pacific
+01-01-2017,10/25/2003,SO61308,1,"Road-250 Red, 58","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Red,58,U,1320.6838,2181.5625,860.8787,MINDY XU,Australia,Australia,Pacific
+01-01-2017,9/20/2003,SO61300,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,OLIVIA WARD,Southwest,United States,North America
+01-01-2017,10-10-2003,SO61300,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,OLIVIA WARD,Southwest,United States,North America
+01-01-2017,11/24/2003,SO61300,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,OLIVIA WARD,Southwest,United States,North America
+01-01-2017,10-10-2003,SO61300,1,"Classic Vest, S","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,S,U,23.749,63.5,39.751,OLIVIA WARD,Southwest,United States,North America
+01-01-2017,11-04-2003,SO61293,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,OSARUMWENSE AGBONILE,Northwest,United States,North America
+01-01-2017,9/19/2003,SO61293,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,OSARUMWENSE AGBONILE,Northwest,United States,North America
+01-01-2017,10-08-2003,SO61293,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,OSARUMWENSE AGBONILE,Northwest,United States,North America
+01-01-2017,12/15/2003,SO61311,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,RAUL TANG,France,France,Europe
+01-01-2017,09-03-2003,SO61311,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,RAUL TANG,France,France,Europe
+01-01-2017,9/24/2003,SO61292,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,REGINA MALHOTRA,Southwest,United States,North America
+01-01-2017,10/17/2003,SO61292,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,REGINA MALHOTRA,Southwest,United States,North America
+01-01-2017,11-04-2003,SO61287,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,RICHARD JAMES,Canada,Canada,North America
+01-01-2017,10/15/2003,SO61287,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,RICHARD JAMES,Canada,Canada,North America
+01-01-2017,10/27/2003,SO61287,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,RICHARD JAMES,Canada,Canada,North America
+01-01-2017,12-01-2003,SO61296,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,ROSS GILL,Germany,Germany,Europe
+01-01-2017,9/13/2003,SO61312,1,"Touring-3000 Blue, 58","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Blue,58,U,461.4448,742.35,280.9052,SABRINA RAMOS,Australia,Australia,Pacific
+01-01-2017,9/28/2003,SO61273,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,SAVANNAH TURNER,Australia,Australia,Pacific
+01-01-2017,11/24/2003,SO61304,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,SERGIO SAI,United Kingdom,United Kingdom,Europe
+01-01-2017,11/28/2003,SO61304,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,SERGIO SAI,United Kingdom,United Kingdom,Europe
+01-01-2017,10-03-2003,SO61304,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,SERGIO SAI,United Kingdom,United Kingdom,Europe
+01-01-2017,11/16/2003,SO61304,1,"Touring-2000 Blue, 60","The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Blue,60,U,755.1508,1214.85,459.6992,SERGIO SAI,United Kingdom,United Kingdom,Europe
+01-01-2017,11/24/2003,SO61281,3,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,TRINITY WATSON,Northwest,United States,North America
+01-01-2017,11-05-2003,SO61303,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,VIRGINIA MEHTA,United Kingdom,United Kingdom,Europe
+01-01-2017,12/17/2003,SO61303,1,"Touring-1000 Yellow, 54",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,54,U,1481.9379,2384.07,902.1321,VIRGINIA MEHTA,United Kingdom,United Kingdom,Europe
+01-02-2017,11-10-2003,SO61367,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,ADAM ROSS,Australia,Australia,Pacific
+01-02-2017,09-08-2003,SO61367,1,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,ADAM ROSS,Australia,Australia,Pacific
+01-02-2017,11-08-2003,SO61367,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,ADAM ROSS,Australia,Australia,Pacific
+01-02-2017,9/16/2003,SO61367,1,"Touring-1000 Blue, 54",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Blue,54,U,1481.9379,2384.07,902.1321,ADAM ROSS,Australia,Australia,Pacific
+01-02-2017,11-08-2003,SO61315,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,ADRIANA SARA,Australia,Australia,Pacific
+01-02-2017,10-09-2003,SO61315,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ADRIANA SARA,Australia,Australia,Pacific
+01-02-2017,12-07-2003,SO61315,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,ADRIANA SARA,Australia,Australia,Pacific
+01-02-2017,09-05-2003,SO61315,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,ADRIANA SARA,Australia,Australia,Pacific
+01-02-2017,9/19/2003,SO61315,1,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,ADRIANA SARA,Australia,Australia,Pacific
+01-02-2017,10-09-2003,SO61349,3,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,ALEJANDRO LIN,United Kingdom,United Kingdom,Europe
+01-02-2017,10-11-2003,SO61349,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ALEJANDRO LIN,United Kingdom,United Kingdom,Europe
+01-02-2017,10-03-2003,SO61349,1,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,ALEJANDRO LIN,United Kingdom,United Kingdom,Europe
+01-02-2017,11-09-2003,SO61355,1,"Long-Sleeve Logo Jersey, S",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,S,U,31.7244,48.0673,16.3429,ALEJANDRO LIN,United Kingdom,United Kingdom,Europe
+01-02-2017,12-09-2003,SO61370,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,ALEJANDRO HUANG,Australia,Australia,Pacific
+01-02-2017,11/13/2003,SO61370,1,"Touring-1000 Yellow, 46",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,46,U,1481.9379,2384.07,902.1321,ALEJANDRO HUANG,Australia,Australia,Pacific
+01-02-2017,11-10-2003,SO61332,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ALEXIS MARTINEZ,Southwest,United States,North America
+01-02-2017,09-08-2003,SO61332,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,ALEXIS MARTINEZ,Southwest,United States,North America
+01-02-2017,11/23/2003,SO61351,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,AMANDA FOSTER,Southwest,United States,North America
+01-02-2017,9/15/2003,SO61351,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,AMANDA FOSTER,Southwest,United States,North America
+01-02-2017,9/15/2003,SO61351,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,AMANDA FOSTER,Southwest,United States,North America
+01-02-2017,10-11-2003,SO61365,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,AMANDA MITCHELL,Southwest,United States,North America
+01-02-2017,11-10-2003,SO61365,1,"Road-350-W Yellow, 44","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,44,W,1082.51,1700.99,618.48,AMANDA MITCHELL,Southwest,United States,North America
+01-02-2017,11/25/2003,SO61320,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,ARTHUR MARTIN,Australia,Australia,Pacific
+01-02-2017,11-01-2003,SO61320,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,ARTHUR MARTIN,Australia,Australia,Pacific
+01-02-2017,10/29/2003,SO61320,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,ARTHUR MARTIN,Australia,Australia,Pacific
+01-02-2017,9/13/2003,SO61362,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ARTURO SHARMA,Australia,Australia,Pacific
+01-02-2017,9/28/2003,SO61362,1,"Mountain-200 Black, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,38,U,1105.81,2049.0982,943.2882,ARTURO SHARMA,Australia,Australia,Pacific
+01-02-2017,9/27/2003,SO61342,3,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ASHLEE KUMAR,Germany,Germany,Europe
+01-02-2017,09-08-2003,SO61342,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ASHLEE KUMAR,Germany,Germany,Europe
+01-02-2017,10/19/2003,SO61342,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,ASHLEE KUMAR,Germany,Germany,Europe
+01-02-2017,11/24/2003,SO61358,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,BENJAMIN WALKER,Northwest,United States,North America
+01-02-2017,11/23/2003,SO61358,1,"Mountain-200 Silver, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,42,U,1117.8559,2071.4196,953.5637,BENJAMIN WALKER,Northwest,United States,North America
+01-02-2017,9/14/2003,SO61358,1,"Classic Vest, M","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,M,U,23.749,63.5,39.751,BENJAMIN WALKER,Northwest,United States,North America
+01-02-2017,10/22/2003,SO61369,1,"Touring-3000 Blue, 54","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Blue,54,U,461.4448,742.35,280.9052,BETH HERNANDEZ,Australia,Australia,Pacific
+01-02-2017,10/21/2003,SO61319,3,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,BRETT PRASAD,Australia,Australia,Pacific
+01-02-2017,09-07-2003,SO61319,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,BRETT PRASAD,Australia,Australia,Pacific
+01-02-2017,12-09-2003,SO61319,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,BRETT PRASAD,Australia,Australia,Pacific
+01-02-2017,09-10-2003,SO61364,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,CHARLES MARTIN,Southwest,United States,North America
+01-02-2017,12-05-2003,SO61364,1,"Touring-1000 Yellow, 50",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,50,U,1481.9379,2384.07,902.1321,CHARLES MARTIN,Southwest,United States,North America
+01-02-2017,9/26/2003,SO61359,1,"Mountain-200 Silver, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,42,U,1117.8559,2071.4196,953.5637,CHLOE WRIGHT,Northwest,United States,North America
+01-02-2017,10-07-2003,SO61343,2,"Half-Finger Gloves, M","Full padding, improved finger flex, durable palm, adjustable closure.",Black,M,U,9.7136,23.5481,13.8345,CRYSTAL WU,United Kingdom,United Kingdom,Europe
+01-02-2017,12-09-2003,SO61343,1,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,CRYSTAL WU,United Kingdom,United Kingdom,Europe
+01-02-2017,11/15/2003,SO61333,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,DALTON PEREZ,Canada,Canada,North America
+01-02-2017,10-12-2003,SO61333,1,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,DALTON PEREZ,Canada,Canada,North America
+01-02-2017,09-12-2003,SO61316,3,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,DARRELL LUO,Australia,Australia,Pacific
+01-02-2017,12-07-2003,SO61316,1,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,DARRELL LUO,Australia,Australia,Pacific
+01-02-2017,10/19/2003,SO61313,3,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,DESIREE DOMINGUEZ,Germany,Germany,Europe
+01-02-2017,12-05-2003,SO61313,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,DESIREE DOMINGUEZ,Germany,Germany,Europe
+01-02-2017,10/28/2003,SO61313,1,"Road-350-W Yellow, 48","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,48,W,1082.51,1700.99,618.48,DESIREE DOMINGUEZ,Germany,Germany,Europe
+01-02-2017,10-09-2003,SO61328,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,DEVIN PARKER,Northwest,United States,North America
+01-02-2017,10-06-2003,SO61330,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,DREW RAJI,Southwest,United States,North America
+01-02-2017,11/19/2003,SO61330,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,DREW RAJI,Southwest,United States,North America
+01-02-2017,11/17/2003,SO61339,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,ERIC WANG,Southwest,United States,North America
+01-02-2017,10-07-2003,SO61339,1,"Classic Vest, M","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,M,U,23.749,63.5,39.751,ERIC WANG,Southwest,United States,North America
+01-02-2017,10-02-2003,SO61352,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,FERNANDO TAYLOR,Southwest,United States,North America
+01-02-2017,10/16/2003,SO61366,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,FRANK VAZQUEZ,France,France,Europe
+01-02-2017,12-09-2003,SO61366,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,FRANK VAZQUEZ,France,France,Europe
+01-02-2017,09-05-2003,SO61366,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,FRANK VAZQUEZ,France,France,Europe
+01-02-2017,11/24/2003,SO61366,1,"Touring-1000 Yellow, 60",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,60,U,1481.9379,2384.07,902.1321,FRANK VAZQUEZ,France,France,Europe
+01-02-2017,10/19/2003,SO61340,3,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,GARRETT SANDERS,Southwest,United States,North America
+01-02-2017,12/17/2003,SO61340,3,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,GARRETT SANDERS,Southwest,United States,North America
+01-02-2017,09-04-2003,SO61340,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,GARRETT SANDERS,Southwest,United States,North America
+01-02-2017,10-02-2003,SO61340,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,GARRETT SANDERS,Southwest,United States,North America
+01-02-2017,10-09-2003,SO61324,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,GRACE COOK,Germany,Germany,Europe
+01-02-2017,11/29/2003,SO61324,1,"Road-350-W Yellow, 40","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,40,W,1082.51,1700.99,618.48,GRACE COOK,Germany,Germany,Europe
+01-02-2017,09-07-2003,SO61345,3,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,GRACE PRICE,Germany,Germany,Europe
+01-02-2017,11/13/2003,SO61345,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,GRACE PRICE,Germany,Germany,Europe
+01-02-2017,12-06-2003,SO61345,1,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,GRACE PRICE,Germany,Germany,Europe
+01-02-2017,12-01-2003,SO61325,3,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,HENRY SURI,United Kingdom,United Kingdom,Europe
+01-02-2017,11/15/2003,SO61325,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,HENRY SURI,United Kingdom,United Kingdom,Europe
+01-02-2017,12-05-2003,SO61325,1,"Road-350-W Yellow, 48","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,48,W,1082.51,1700.99,618.48,HENRY SURI,United Kingdom,United Kingdom,Europe
+01-02-2017,11/23/2003,SO61335,1,"Women's Mountain Shorts, L","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,L,W,26.1763,69.99,43.8137,ISAIAH BROOKS,Northwest,United States,North America
+01-02-2017,11/13/2003,SO61347,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,JACKSON ROBERTS,Germany,Germany,Europe
+01-02-2017,11-05-2003,SO61347,1,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,JACKSON ROBERTS,Germany,Germany,Europe
+01-02-2017,11/28/2003,SO61347,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,JACKSON ROBERTS,Germany,Germany,Europe
+01-02-2017,11-06-2003,SO61323,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,JAIME YUAN,Germany,Germany,Europe
+01-02-2017,11-08-2003,SO61323,1,"Road-350-W Yellow, 40","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,40,W,1082.51,1700.99,618.48,JAIME YUAN,Germany,Germany,Europe
+01-02-2017,10-01-2003,SO61331,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,JENNIFER SIMMONS,Canada,Canada,North America
+01-02-2017,9/23/2003,SO61331,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,JENNIFER SIMMONS,Canada,Canada,North America
+01-02-2017,11/16/2003,SO61331,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,JENNIFER SIMMONS,Canada,Canada,North America
+01-02-2017,9/16/2003,SO61334,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,JESSE COOK,Southwest,United States,North America
+01-02-2017,12/18/2003,SO61334,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,JESSE COOK,Southwest,United States,North America
+01-02-2017,10/28/2003,SO61329,3,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,JORDAN WRIGHT,Southwest,United States,North America
+01-02-2017,11-01-2003,SO61329,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,JORDAN WRIGHT,Southwest,United States,North America
+01-02-2017,09-06-2003,SO61329,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,JORDAN WRIGHT,Southwest,United States,North America
+01-02-2017,12-11-2003,SO61348,3,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,JORDAN PARKER,France,France,Europe
+01-02-2017,11-06-2003,SO61348,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,JORDAN PARKER,France,France,Europe
+01-02-2017,10-10-2003,SO61348,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,JORDAN PARKER,France,France,Europe
+01-02-2017,10/21/2003,SO61363,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,KARA JAI,Southwest,United States,North America
+01-02-2017,09-06-2003,SO61363,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,KARA JAI,Southwest,United States,North America
+01-02-2017,9/30/2003,SO61363,1,"Touring-3000 Yellow, 54","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Yellow,54,U,461.4448,742.35,280.9052,KARA JAI,Southwest,United States,North America
+01-02-2017,10-02-2003,SO61344,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,KATHRYN RAJE,France,France,Europe
+01-02-2017,09-05-2003,SO61344,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,KATHRYN RAJE,France,France,Europe
+01-02-2017,09-11-2003,SO61344,1,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,KATHRYN RAJE,France,France,Europe
+01-02-2017,10/24/2003,SO61368,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,KAYLEE COOK,Australia,Australia,Pacific
+01-02-2017,12-12-2003,SO61368,1,"Touring-1000 Blue, 60",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Blue,60,U,1481.9379,2384.07,902.1321,KAYLEE COOK,Australia,Australia,Pacific
+01-02-2017,9/15/2003,SO61371,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,KEITH BECKER,Australia,Australia,Pacific
+01-02-2017,9/23/2003,SO61357,3,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,KEVIN ADAMS,Northwest,United States,North America
+01-02-2017,09-04-2003,SO61357,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,KEVIN ADAMS,Northwest,United States,North America
+01-02-2017,10/28/2003,SO61357,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,KEVIN ADAMS,Northwest,United States,North America
+01-02-2017,11/21/2003,SO61357,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,KEVIN ADAMS,Northwest,United States,North America
+01-02-2017,11/17/2003,SO61357,1,"Mountain-400-W Silver, 38","This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Silver,38,W,419.7784,769.49,349.7116,KEVIN ADAMS,Northwest,United States,North America
+01-02-2017,11/14/2003,SO61326,3,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,KURT XU,Germany,Germany,Europe
+01-02-2017,11/27/2003,SO61326,1,"Road-250 Black, 52","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Black,52,U,1320.6838,2181.5625,860.8787,KURT XU,Germany,Germany,Europe
+01-02-2017,09-08-2003,SO61356,1,"Mountain-400-W Silver, 46","This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Silver,46,W,419.7784,769.49,349.7116,KYLE DIAZ,Southwest,United States,North America
+01-02-2017,11/27/2003,SO61354,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,MANUEL SARA,United Kingdom,United Kingdom,Europe
+01-02-2017,9/16/2003,SO61353,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,MASAKI UMEDA,Canada,Canada,North America
+01-02-2017,09-09-2003,SO61353,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,MASAKI UMEDA,Canada,Canada,North America
+01-02-2017,09-11-2003,SO61353,1,"Classic Vest, S","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,S,U,23.749,63.5,39.751,MASAKI UMEDA,Canada,Canada,North America
+01-02-2017,9/13/2003,SO61338,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,MORGAN PERRY,Southwest,United States,North America
+01-02-2017,11/25/2003,SO61338,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,MORGAN PERRY,Southwest,United States,North America
+01-02-2017,9/14/2003,SO61336,2,"Racing Socks, L","Thin, lightweight and durable with cuffs that stay up.",White,L,U,3.3623,8.99,5.6277,NATHAN EDWARDS,Southwest,United States,North America
+01-02-2017,09-05-2003,SO61336,1,"Women's Mountain Shorts, S","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,S,W,26.1763,69.99,43.8137,NATHAN EDWARDS,Southwest,United States,North America
+01-02-2017,9/17/2003,SO61341,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,ORLANDO MARTIN,United Kingdom,United Kingdom,Europe
+01-02-2017,9/25/2003,SO61341,1,"Long-Sleeve Logo Jersey, M",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,M,U,31.7244,48.0673,16.3429,ORLANDO MARTIN,United Kingdom,United Kingdom,Europe
+01-02-2017,9/26/2003,SO61321,3,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,RENEE SANZ,Australia,Australia,Pacific
+01-02-2017,11-06-2003,SO61321,1,"Long-Sleeve Logo Jersey, XL",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,XL,U,31.7244,48.0673,16.3429,RENEE SANZ,Australia,Australia,Pacific
+01-02-2017,11/30/2003,SO61350,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,ROBERT COLLINS,Northwest,United States,North America
+01-02-2017,12/14/2003,SO61350,1,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ROBERT COLLINS,Northwest,United States,North America
+01-02-2017,10/20/2003,SO61350,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,ROBERT COLLINS,Northwest,United States,North America
+01-02-2017,09-12-2003,SO61314,1,Hitch Rack - 4-Bike,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch.",NA,0,0,44.88,120,75.12,SAMANTHA RUSSELL,Canada,Canada,North America
+01-02-2017,9/22/2003,SO61346,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,SEAN ADAMS,United Kingdom,United Kingdom,Europe
+01-02-2017,12/15/2003,SO61360,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,SETH MARTIN,Northwest,United States,North America
+01-02-2017,9/25/2003,SO61360,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,SETH MARTIN,Northwest,United States,North America
+01-02-2017,12/17/2003,SO61360,1,"Long-Sleeve Logo Jersey, XL",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,XL,U,31.7244,48.0673,16.3429,SETH MARTIN,Northwest,United States,North America
+01-02-2017,09-10-2003,SO61360,1,"Mountain-200 Black, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,38,U,1105.81,2049.0982,943.2882,SETH MARTIN,Northwest,United States,North America
+01-02-2017,10/19/2003,SO61360,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,SETH MARTIN,Northwest,United States,North America
+01-02-2017,10-04-2003,SO61317,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,SHAUN BLACK,Australia,Australia,Pacific
+01-02-2017,10-10-2003,SO61322,3,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,STEFANIE SUBRAM,Australia,Australia,Pacific
+01-02-2017,11-08-2003,SO61322,1,Hitch Rack - 4-Bike,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch.",NA,0,0,44.88,120,75.12,STEFANIE SUBRAM,Australia,Australia,Pacific
+01-02-2017,10/20/2003,SO61318,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,TAMARA JOHNSTON,Australia,Australia,Pacific
+01-02-2017,9/20/2003,SO61318,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,TAMARA JOHNSTON,Australia,Australia,Pacific
+01-02-2017,10/16/2003,SO61327,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,TYRONE SUAREZ,Germany,Germany,Europe
+01-02-2017,09-05-2003,SO61327,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,TYRONE SUAREZ,Germany,Germany,Europe
+01-02-2017,11/16/2003,SO61327,1,"Mountain-200 Black, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,38,U,1105.81,2049.0982,943.2882,TYRONE SUAREZ,Germany,Germany,Europe
+01-03-2017,11-12-2003,SO61400,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ALEXANDRA MOORE,Northwest,United States,North America
+01-03-2017,10-12-2003,SO61400,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ALEXANDRA MOORE,Northwest,United States,North America
+01-03-2017,11/18/2003,SO61386,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,AUDREY ALONSO,Southwest,United States,North America
+01-03-2017,12-08-2003,SO61386,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,AUDREY ALONSO,Southwest,United States,North America
+01-03-2017,9/20/2003,SO61386,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,AUDREY ALONSO,Southwest,United States,North America
+01-03-2017,12/14/2003,SO61377,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,BRANDY LOPEZ,Australia,Australia,Pacific
+01-03-2017,10/28/2003,SO61373,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,BYRON VAZQUEZ,Australia,Australia,Pacific
+01-03-2017,10/19/2003,SO61398,1,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,CASSIDY FLORES,Canada,Canada,North America
+01-03-2017,11-08-2003,SO61420,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,CATHERINE COX,Australia,Australia,Pacific
+01-03-2017,9/21/2003,SO61420,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,CATHERINE COX,Australia,Australia,Pacific
+01-03-2017,10-04-2003,SO61420,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,CATHERINE COX,Australia,Australia,Pacific
+01-03-2017,9/18/2003,SO61420,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,CATHERINE COX,Australia,Australia,Pacific
+01-03-2017,12-05-2003,SO61419,1,"Road-550-W Yellow, 44","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,44,W,605.6492,1000.4375,394.7883,CHAD ANAND,Australia,Australia,Pacific
+01-03-2017,10/25/2003,SO61425,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,DENNIS ZENG,Australia,Australia,Pacific
+01-03-2017,10/31/2003,SO61425,1,"Touring-2000 Blue, 54","The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Blue,54,U,755.1508,1214.85,459.6992,DENNIS ZENG,Australia,Australia,Pacific
+01-03-2017,9/28/2003,SO61376,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,DEREK JAI,Australia,Australia,Pacific
+01-03-2017,9/27/2003,SO61413,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,DEVIN PEREZ,Northwest,United States,North America
+01-03-2017,10-04-2003,SO61413,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,DEVIN PEREZ,Northwest,United States,North America
+01-03-2017,12-09-2003,SO61413,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,DEVIN PEREZ,Northwest,United States,North America
+01-03-2017,12-03-2003,SO61416,3,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,EDDIE DOMINGUEZ,Germany,Germany,Europe
+01-03-2017,11/28/2003,SO61416,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,EDDIE DOMINGUEZ,Germany,Germany,Europe
+01-03-2017,10-11-2003,SO61416,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,EDDIE DOMINGUEZ,Germany,Germany,Europe
+01-03-2017,12/13/2003,SO61416,1,"Touring-1000 Blue, 46",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Blue,46,U,1481.9379,2384.07,902.1321,EDDIE DOMINGUEZ,Germany,Germany,Europe
+01-03-2017,11-02-2003,SO61415,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,ELIZABETH LONG,Canada,Canada,North America
+01-03-2017,09-12-2003,SO61415,1,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,ELIZABETH LONG,Canada,Canada,North America
+01-03-2017,10/15/2003,SO61415,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,ELIZABETH LONG,Canada,Canada,North America
+01-03-2017,10-05-2003,SO61415,1,"Mountain-200 Silver, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,46,U,1117.8559,2071.4196,953.5637,ELIZABETH LONG,Canada,Canada,North America
+01-03-2017,11-01-2003,SO61394,3,"Half-Finger Gloves, M","Full padding, improved finger flex, durable palm, adjustable closure.",Black,M,U,9.7136,23.5481,13.8345,EMMA LEE,Canada,Canada,North America
+01-03-2017,11-09-2003,SO61394,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,EMMA LEE,Canada,Canada,North America
+01-03-2017,10/18/2003,SO61394,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,EMMA LEE,Canada,Canada,North America
+01-03-2017,10-05-2003,SO61394,1,"Long-Sleeve Logo Jersey, M",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,M,U,31.7244,48.0673,16.3429,EMMA LEE,Canada,Canada,North America
+01-03-2017,9/30/2003,SO61410,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,ERIC EVANS,Southwest,United States,North America
+01-03-2017,09-11-2003,SO61410,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,ERIC EVANS,Southwest,United States,North America
+01-03-2017,9/26/2003,SO61410,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,ERIC EVANS,Southwest,United States,North America
+01-03-2017,12-10-2003,SO61379,3,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ETHAN HENDERSON,France,France,Europe
+01-03-2017,12-02-2003,SO61379,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,ETHAN HENDERSON,France,France,Europe
+01-03-2017,11-06-2003,SO61379,1,"Road-250 Black, 52","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Black,52,U,1320.6838,2181.5625,860.8787,ETHAN HENDERSON,France,France,Europe
+01-03-2017,9/29/2003,SO61379,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,ETHAN HENDERSON,France,France,Europe
+01-03-2017,11/14/2003,SO61372,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,FRANKLIN YANG,Northwest,United States,North America
+01-03-2017,11-06-2003,SO61404,3,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,GABRIEL ROSS,United Kingdom,United Kingdom,Europe
+01-03-2017,10/13/2003,SO61404,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,GABRIEL ROSS,United Kingdom,United Kingdom,Europe
+01-03-2017,10/21/2003,SO61388,3,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,GARRETT BELL,Canada,Canada,North America
+01-03-2017,10/26/2003,SO61388,1,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,GARRETT BELL,Canada,Canada,North America
+01-03-2017,11-10-2003,SO61407,3,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,GEORGE SUBRAM,France,France,Europe
+01-03-2017,12-06-2003,SO61407,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,GEORGE SUBRAM,France,France,Europe
+01-03-2017,10-10-2003,SO61407,1,Hitch Rack - 4-Bike,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch.",NA,0,0,44.88,120,75.12,GEORGE SUBRAM,France,France,Europe
+01-03-2017,11/15/2003,SO61380,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,GILBERT HUANG,Germany,Germany,Europe
+01-03-2017,12-06-2003,SO61380,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,GILBERT HUANG,Germany,Germany,Europe
+01-03-2017,10/26/2003,SO61380,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,GILBERT HUANG,Germany,Germany,Europe
+01-03-2017,9/21/2003,SO61418,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,HAROLD PATEL,Australia,Australia,Pacific
+01-03-2017,11/20/2003,SO61418,2,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,HAROLD PATEL,Australia,Australia,Pacific
+01-03-2017,12/14/2003,SO61418,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,HAROLD PATEL,Australia,Australia,Pacific
+01-03-2017,11/22/2003,SO61418,1,"Road-550-W Yellow, 42","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,42,W,605.6492,1000.4375,394.7883,HAROLD PATEL,Australia,Australia,Pacific
+01-03-2017,11-05-2003,SO61389,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,JADA BELL,Northwest,United States,North America
+01-03-2017,9/18/2003,SO61409,3,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,JAMIE HARRISON,Southwest,United States,North America
+01-03-2017,10-11-2003,SO61409,2,"Racing Socks, M","Thin, lightweight and durable with cuffs that stay up.",White,M,U,3.3623,8.99,5.6277,JAMIE HARRISON,Southwest,United States,North America
+01-03-2017,09-06-2003,SO61409,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,JAMIE HARRISON,Southwest,United States,North America
+01-03-2017,10/19/2003,SO61409,1,"Mountain-200 Black, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,42,U,1105.81,2049.0982,943.2882,JAMIE HARRISON,Southwest,United States,North America
+01-03-2017,10/18/2003,SO61409,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,JAMIE HARRISON,Southwest,United States,North America
+01-03-2017,10/29/2003,SO61385,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,JENNIFER SIMMONS,Canada,Canada,North America
+01-03-2017,12-09-2003,SO61385,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,JENNIFER SIMMONS,Canada,Canada,North America
+01-03-2017,10-02-2003,SO61399,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,JENNIFER BROWN,Northwest,United States,North America
+01-03-2017,10-05-2003,SO61399,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,JENNIFER BROWN,Northwest,United States,North America
+01-03-2017,10/22/2003,SO61387,3,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,JEREMIAH GREEN,Southwest,United States,North America
+01-03-2017,11/29/2003,SO61387,1,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,JEREMIAH GREEN,Southwest,United States,North America
+01-03-2017,10-10-2003,SO61381,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,JESSE SANCHEZ,United Kingdom,United Kingdom,Europe
+01-03-2017,11/18/2003,SO61381,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,JESSE SANCHEZ,United Kingdom,United Kingdom,Europe
+01-03-2017,9/23/2003,SO61395,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,JESSE BELL,Northwest,United States,North America
+01-03-2017,12-12-2003,SO61395,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,JESSE BELL,Northwest,United States,North America
+01-03-2017,12-08-2003,SO61395,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,JESSE BELL,Northwest,United States,North America
+01-03-2017,11/14/2003,SO61427,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,JOE LOPEZ,Australia,Australia,Pacific
+01-03-2017,12-09-2003,SO61374,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,JONATHAN RODRIGUEZ,Australia,Australia,Pacific
+01-03-2017,9/18/2003,SO61382,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,JULIA MORRIS,Germany,Germany,Europe
+01-03-2017,10/22/2003,SO61382,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,JULIA MORRIS,Germany,Germany,Europe
+01-03-2017,10-06-2003,SO61382,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,JULIA MORRIS,Germany,Germany,Europe
+01-03-2017,12-11-2003,SO61382,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,JULIA MORRIS,Germany,Germany,Europe
+01-03-2017,9/14/2003,SO61391,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,JULIA PETERSON,Canada,Canada,North America
+01-03-2017,11-07-2003,SO61391,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,JULIA PETERSON,Canada,Canada,North America
+01-03-2017,11-11-2003,SO61401,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,KATHRYN SHARMA,Canada,Canada,North America
+01-03-2017,11-11-2003,SO61401,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,KATHRYN SHARMA,Canada,Canada,North America
+01-03-2017,10/28/2003,SO61401,1,"Long-Sleeve Logo Jersey, S",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,S,U,31.7244,48.0673,16.3429,KATHRYN SHARMA,Canada,Canada,North America
+01-03-2017,10/24/2003,SO61375,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,LACEY YANG,Australia,Australia,Pacific
+01-03-2017,9/29/2003,SO61383,3,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,LACEY HE,United Kingdom,United Kingdom,Europe
+01-03-2017,12/18/2003,SO61383,1,"Mountain-200 Silver, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,46,U,1117.8559,2071.4196,953.5637,LACEY HE,United Kingdom,United Kingdom,Europe
+01-03-2017,11/20/2003,SO61383,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,LACEY HE,United Kingdom,United Kingdom,Europe
+01-03-2017,12-02-2003,SO61417,1,"Road-550-W Yellow, 44","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,44,W,605.6492,1000.4375,394.7883,LEAH SUN,Australia,Australia,Pacific
+01-03-2017,10/31/2003,SO61397,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,LOGAN EDWARDS,Canada,Canada,North America
+01-03-2017,9/17/2003,SO61414,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,LOGAN JENKINS,Northwest,United States,North America
+01-03-2017,10-12-2003,SO61414,1,"Mountain-200 Silver, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,42,U,1117.8559,2071.4196,953.5637,LOGAN JENKINS,Northwest,United States,North America
+01-03-2017,11-12-2003,SO61423,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,LORI RAMOS,Germany,Germany,Europe
+01-03-2017,11/19/2003,SO61423,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,LORI RAMOS,Germany,Germany,Europe
+01-03-2017,10/25/2003,SO61423,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,LORI RAMOS,Germany,Germany,Europe
+01-03-2017,9/19/2003,SO61423,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,LORI RAMOS,Germany,Germany,Europe
+01-03-2017,10-10-2003,SO61426,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,LUIS HILL,Australia,Australia,Pacific
+01-03-2017,11/24/2003,SO61426,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,LUIS HILL,Australia,Australia,Pacific
+01-03-2017,10-09-2003,SO61426,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,LUIS HILL,Australia,Australia,Pacific
+01-03-2017,10/19/2003,SO61426,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,LUIS HILL,Australia,Australia,Pacific
+01-03-2017,10-03-2003,SO61392,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,MARSHALL XU,Northwest,United States,North America
+01-03-2017,12-06-2003,SO61406,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,MORGAN BRYANT,France,France,Europe
+01-03-2017,11/22/2003,SO61406,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,MORGAN BRYANT,France,France,Europe
+01-03-2017,9/30/2003,SO61406,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,MORGAN BRYANT,France,France,Europe
+01-03-2017,11-01-2003,SO61406,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,MORGAN BRYANT,France,France,Europe
+01-03-2017,10-06-2003,SO61412,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,NATHANIEL COOPER,Southwest,United States,North America
+01-03-2017,11-04-2003,SO61412,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,NATHANIEL COOPER,Southwest,United States,North America
+01-03-2017,11/19/2003,SO61412,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,NATHANIEL COOPER,Southwest,United States,North America
+01-03-2017,09-08-2003,SO61412,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,NATHANIEL COOPER,Southwest,United States,North America
+01-03-2017,10/24/2003,SO61412,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,NATHANIEL COOPER,Southwest,United States,North America
+01-03-2017,11-01-2003,SO61412,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,NATHANIEL COOPER,Southwest,United States,North America
+01-03-2017,10/16/2003,SO61412,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,NATHANIEL COOPER,Southwest,United States,North America
+01-03-2017,11/15/2003,SO61408,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,PETER KUMAR,United Kingdom,United Kingdom,Europe
+01-03-2017,9/26/2003,SO61408,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,PETER KUMAR,United Kingdom,United Kingdom,Europe
+01-03-2017,10-02-2003,SO61378,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,RACHAEL RANA,Australia,Australia,Pacific
+01-03-2017,11/21/2003,SO61396,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,RACHEL PRICE,Canada,Canada,North America
+01-03-2017,11/18/2003,SO61396,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,RACHEL PRICE,Canada,Canada,North America
+01-03-2017,10/27/2003,SO61396,1,"Long-Sleeve Logo Jersey, XL",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,XL,U,31.7244,48.0673,16.3429,RACHEL PRICE,Canada,Canada,North America
+01-03-2017,12-02-2003,SO61422,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,RACHEL GARCIA,Canada,Canada,North America
+01-03-2017,10/13/2003,SO61422,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,RACHEL GARCIA,Canada,Canada,North America
+01-03-2017,10-11-2003,SO61422,1,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,RACHEL GARCIA,Canada,Canada,North America
+01-03-2017,12/14/2003,SO61422,1,"Touring-1000 Yellow, 54",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,54,U,1481.9379,2384.07,902.1321,RACHEL GARCIA,Canada,Canada,North America
+01-03-2017,9/16/2003,SO61390,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,ROGER LIANG,Southwest,United States,North America
+01-03-2017,10/13/2003,SO61390,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,ROGER LIANG,Southwest,United States,North America
+01-03-2017,10/27/2003,SO61390,1,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,ROGER LIANG,Southwest,United States,North America
+01-03-2017,9/20/2003,SO61384,3,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,RYAN BROWN,Southwest,United States,North America
+01-03-2017,11/13/2003,SO61384,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,RYAN BROWN,Southwest,United States,North America
+01-03-2017,12-07-2003,SO61402,3,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,TABITHA GILL,Southwest,United States,North America
+01-03-2017,12/15/2003,SO61402,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,TABITHA GILL,Southwest,United States,North America
+01-03-2017,9/26/2003,SO61402,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,TABITHA GILL,Southwest,United States,North America
+01-03-2017,12-06-2003,SO61393,3,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,TREVOR GONZALES,Canada,Canada,North America
+01-03-2017,11/26/2003,SO61393,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,TREVOR GONZALES,Canada,Canada,North America
+01-03-2017,12-08-2003,SO61393,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,TREVOR GONZALES,Canada,Canada,North America
+01-03-2017,10-03-2003,SO61424,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,TROY PRASAD,Germany,Germany,Europe
+01-03-2017,10/17/2003,SO61424,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,TROY PRASAD,Germany,Germany,Europe
+01-03-2017,10/13/2003,SO61405,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,VERONICA GARCIA,Germany,Germany,Europe
+01-03-2017,12-04-2003,SO61405,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,VERONICA GARCIA,Germany,Germany,Europe
+01-03-2017,12-02-2003,SO61405,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,VERONICA GARCIA,Germany,Germany,Europe
+01-03-2017,11-12-2003,SO61421,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,VICTORIA BUTLER,Canada,Canada,North America
+01-03-2017,10-07-2003,SO61421,1,"Touring-1000 Blue, 60",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Blue,60,U,1481.9379,2384.07,902.1321,VICTORIA BUTLER,Canada,Canada,North America
+01-03-2017,11-11-2003,SO61403,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,WHITNEY MADAN,France,France,Europe
+01-04-2017,09-11-2003,SO61460,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ALEJANDRO SHEN,France,France,Europe
+01-04-2017,10/23/2003,SO61460,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,ALEJANDRO SHEN,France,France,Europe
+01-04-2017,9/27/2003,SO61460,1,"Classic Vest, L","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,L,U,23.749,63.5,39.751,ALEJANDRO SHEN,France,France,Europe
+01-04-2017,11-04-2003,SO61435,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,ALICIA SHE,Australia,Australia,Pacific
+01-04-2017,12-07-2003,SO61435,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,ALICIA SHE,Australia,Australia,Pacific
+01-04-2017,10/20/2003,SO61455,2,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,ANA PERRY,Canada,Canada,North America
+01-04-2017,11/16/2003,SO61455,1,"Women's Mountain Shorts, S","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,S,W,26.1763,69.99,43.8137,ANA PERRY,Canada,Canada,North America
+01-04-2017,9/21/2003,SO61453,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,ANNA GARCIA,Canada,Canada,North America
+01-04-2017,10-04-2003,SO61453,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,ANNA GARCIA,Canada,Canada,North America
+01-04-2017,10-04-2003,SO61453,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ANNA GARCIA,Canada,Canada,North America
+01-04-2017,12-08-2003,SO61475,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,AUSTIN DAVIS,Canada,Canada,North America
+01-04-2017,11/28/2003,SO61475,1,"Touring-1000 Yellow, 50",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,50,U,1481.9379,2384.07,902.1321,AUSTIN DAVIS,Canada,Canada,North America
+01-04-2017,09-09-2003,SO61436,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,BRADLEY SHE,Australia,Australia,Pacific
+01-04-2017,11/26/2003,SO61436,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,BRADLEY SHE,Australia,Australia,Pacific
+01-04-2017,11/17/2003,SO61436,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,BRADLEY SHE,Australia,Australia,Pacific
+01-04-2017,12-11-2003,SO61436,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,BRADLEY SHE,Australia,Australia,Pacific
+01-04-2017,10/19/2003,SO61469,1,"Touring-2000 Blue, 60","The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Blue,60,U,755.1508,1214.85,459.6992,BRANDI DIAZ,France,France,Europe
+01-04-2017,11-09-2003,SO61471,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,BRIDGET TANG,Australia,Australia,Pacific
+01-04-2017,11/28/2003,SO61471,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,BRIDGET TANG,Australia,Australia,Pacific
+01-04-2017,10-11-2003,SO61471,1,"Road-550-W Yellow, 48","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,48,W,605.6492,1000.4375,394.7883,BRIDGET TANG,Australia,Australia,Pacific
+01-04-2017,10/16/2003,SO61471,1,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,BRIDGET TANG,Australia,Australia,Pacific
+01-04-2017,09-10-2003,SO61432,3,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,CARLA ARTHUR,Australia,Australia,Pacific
+01-04-2017,10-08-2003,SO61432,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,CARLA ARTHUR,Australia,Australia,Pacific
+01-04-2017,10/26/2003,SO61432,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,CARLA ARTHUR,Australia,Australia,Pacific
+01-04-2017,12/13/2003,SO61446,1,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,CATHERINE MURPHY,Canada,Canada,North America
+01-04-2017,12-02-2003,SO61446,1,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,CATHERINE MURPHY,Canada,Canada,North America
+01-04-2017,11/26/2003,SO61446,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,CATHERINE MURPHY,Canada,Canada,North America
+01-04-2017,10/22/2003,SO61444,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,DANA NAVARRO,Australia,Australia,Pacific
+01-04-2017,9/14/2003,SO61444,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,DANA NAVARRO,Australia,Australia,Pacific
+01-04-2017,10-10-2003,SO61444,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,DANA NAVARRO,Australia,Australia,Pacific
+01-04-2017,9/22/2003,SO61452,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,DESTINY STEWART,Canada,Canada,North America
+01-04-2017,11-05-2003,SO61452,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,DESTINY STEWART,Canada,Canada,North America
+01-04-2017,12/15/2003,SO61458,1,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,DESTINY MILLER,Canada,Canada,North America
+01-04-2017,9/17/2003,SO61458,1,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,DESTINY MILLER,Canada,Canada,North America
+01-04-2017,11-04-2003,SO61464,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,DYLAN WANG,Northwest,United States,North America
+01-04-2017,10/20/2003,SO61466,3,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ELIZABETH PRICE,Southwest,United States,North America
+01-04-2017,11-07-2003,SO61466,1,"Mountain-200 Silver, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,42,U,1117.8559,2071.4196,953.5637,ELIZABETH PRICE,Southwest,United States,North America
+01-04-2017,10-04-2003,SO61466,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,ELIZABETH PRICE,Southwest,United States,North America
+01-04-2017,10-08-2003,SO61478,2,"Racing Socks, M","Thin, lightweight and durable with cuffs that stay up.",White,M,U,3.3623,8.99,5.6277,EMMA BUTLER,Northwest,United States,North America
+01-04-2017,12-09-2003,SO61478,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,EMMA BUTLER,Northwest,United States,North America
+01-04-2017,10-03-2003,SO61478,2,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,EMMA BUTLER,Northwest,United States,North America
+01-04-2017,10-03-2003,SO61478,1,"Road-550-W Yellow, 42","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,42,W,605.6492,1000.4375,394.7883,EMMA BUTLER,Northwest,United States,North America
+01-04-2017,12-09-2003,SO61445,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ERIC PERRY,Canada,Canada,North America
+01-04-2017,12/18/2003,SO61445,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,ERIC PERRY,Canada,Canada,North America
+01-04-2017,10/24/2003,SO61442,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,EUGENE GUO,France,France,Europe
+01-04-2017,10/24/2003,SO61442,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,EUGENE GUO,France,France,Europe
+01-04-2017,9/13/2003,SO61454,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,GARRETT BELL,Canada,Canada,North America
+01-04-2017,9/22/2003,SO61454,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,GARRETT BELL,Canada,Canada,North America
+01-04-2017,9/20/2003,SO61454,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,GARRETT BELL,Canada,Canada,North America
+01-04-2017,12-05-2003,SO61443,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,GINA MARTIN,Canada,Canada,North America
+01-04-2017,09-09-2003,SO61433,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,GRANT DENG,Australia,Australia,Pacific
+01-04-2017,12-01-2003,SO61433,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,GRANT DENG,Australia,Australia,Pacific
+01-04-2017,9/20/2003,SO61433,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,GRANT DENG,Australia,Australia,Pacific
+01-04-2017,12-05-2003,SO61433,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,GRANT DENG,Australia,Australia,Pacific
+01-04-2017,11-09-2003,SO61465,3,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,HUNTER BAKER,Southwest,United States,North America
+01-04-2017,10/19/2003,SO61465,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,HUNTER BAKER,Southwest,United States,North America
+01-04-2017,11/21/2003,SO61465,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,HUNTER BAKER,Southwest,United States,North America
+01-04-2017,12-08-2003,SO61465,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,HUNTER BAKER,Southwest,United States,North America
+01-04-2017,10/30/2003,SO61465,1,"Mountain-500 Black, 44","Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Black,44,U,294.5797,539.99,245.4103,HUNTER BAKER,Southwest,United States,North America
+01-04-2017,11/29/2003,SO61434,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,JAMIE LU,Australia,Australia,Pacific
+01-04-2017,12/15/2003,SO61434,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,JAMIE LU,Australia,Australia,Pacific
+01-04-2017,09-06-2003,SO61473,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,JOHNNY RAI,Australia,Australia,Pacific
+01-04-2017,10-03-2003,SO61473,1,"Mountain-200 Black, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,38,U,1105.81,2049.0982,943.2882,JOHNNY RAI,Australia,Australia,Pacific
+01-04-2017,12/16/2003,SO61448,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,JOSE WILLIAMS,Northwest,United States,North America
+01-04-2017,10/30/2003,SO61430,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,JOS� HERNANDEZ,Canada,Canada,North America
+01-04-2017,10/23/2003,SO61472,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,KELLI RAJI,Australia,Australia,Pacific
+01-04-2017,11-07-2003,SO61472,1,"Mountain-200 Black, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,38,U,1105.81,2049.0982,943.2882,KELLI RAJI,Australia,Australia,Pacific
+01-04-2017,10/23/2003,SO61474,1,"Touring-3000 Yellow, 50","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Yellow,50,U,461.4448,742.35,280.9052,KELLY BENNETT,Southwest,United States,North America
+01-04-2017,10/17/2003,SO61429,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,KRISTI SERRANO,Australia,Australia,Pacific
+01-04-2017,11/13/2003,SO61429,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,KRISTI SERRANO,Australia,Australia,Pacific
+01-04-2017,12-09-2003,SO61429,1,"Road-250 Red, 58","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Red,58,U,1320.6838,2181.5625,860.8787,KRISTI SERRANO,Australia,Australia,Pacific
+01-04-2017,10-09-2003,SO61429,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,KRISTI SERRANO,Australia,Australia,Pacific
+01-04-2017,12/13/2003,SO61459,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,KRYSTAL WU,France,France,Europe
+01-04-2017,12/20/2003,SO61459,1,"Classic Vest, M","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,M,U,23.749,63.5,39.751,KRYSTAL WU,France,France,Europe
+01-04-2017,10/26/2003,SO61428,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,LAURA WU,Australia,Australia,Pacific
+01-04-2017,9/18/2003,SO61428,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,LAURA WU,Australia,Australia,Pacific
+01-04-2017,9/23/2003,SO61428,1,"Road-250 Black, 58","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Black,58,U,1320.6838,2181.5625,860.8787,LAURA WU,Australia,Australia,Pacific
+01-04-2017,11/20/2003,SO61428,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,LAURA WU,Australia,Australia,Pacific
+01-04-2017,9/30/2003,SO61439,1,"Long-Sleeve Logo Jersey, S",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,S,U,31.7244,48.0673,16.3429,LINDSEY PAL,United Kingdom,United Kingdom,Europe
+01-04-2017,11/25/2003,SO61439,1,"Road-350-W Yellow, 40","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,40,W,1082.51,1700.99,618.48,LINDSEY PAL,United Kingdom,United Kingdom,Europe
+01-04-2017,10/21/2003,SO61461,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,MACKENZIE PHILLIPS,Canada,Canada,North America
+01-04-2017,11-05-2003,SO61461,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,MACKENZIE PHILLIPS,Canada,Canada,North America
+01-04-2017,10-06-2003,SO61461,1,"Long-Sleeve Logo Jersey, XL",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,XL,U,31.7244,48.0673,16.3429,MACKENZIE PHILLIPS,Canada,Canada,North America
+01-04-2017,12-03-2003,SO61461,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,MACKENZIE PHILLIPS,Canada,Canada,North America
+01-04-2017,9/24/2003,SO61450,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,MADISON MARTINEZ,Southwest,United States,North America
+01-04-2017,12-11-2003,SO61450,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,MADISON MARTINEZ,Southwest,United States,North America
+01-04-2017,9/19/2003,SO61450,1,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,MADISON MARTINEZ,Southwest,United States,North America
+01-04-2017,12-10-2003,SO61470,3,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,MARIE SANZ,United Kingdom,United Kingdom,Europe
+01-04-2017,11-01-2003,SO61470,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,MARIE SANZ,United Kingdom,United Kingdom,Europe
+01-04-2017,10/29/2003,SO61470,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,MARIE SANZ,United Kingdom,United Kingdom,Europe
+01-04-2017,10-12-2003,SO61470,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,MARIE SANZ,United Kingdom,United Kingdom,Europe
+01-04-2017,11/23/2003,SO61470,1,"Touring-1000 Yellow, 50",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,50,U,1481.9379,2384.07,902.1321,MARIE SANZ,United Kingdom,United Kingdom,Europe
+01-04-2017,9/26/2003,SO61438,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,MEAGAN MARTINEZ,Germany,Germany,Europe
+01-04-2017,10-04-2003,SO61438,1,"Road-350-W Yellow, 42","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,42,W,1082.51,1700.99,618.48,MEAGAN MARTINEZ,Germany,Germany,Europe
+01-04-2017,10/15/2003,SO61440,1,"Long-Sleeve Logo Jersey, S",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,S,U,31.7244,48.0673,16.3429,MEAGAN SAI,Germany,Germany,Europe
+01-04-2017,09-12-2003,SO61440,1,"Mountain-400-W Silver, 42","This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Silver,42,W,419.7784,769.49,349.7116,MEAGAN SAI,Germany,Germany,Europe
+01-04-2017,12-06-2003,SO61481,1,"Mountain-400-W Silver, 38","This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Silver,38,W,419.7784,769.49,349.7116,MICHELE RAMAN,Australia,Australia,Pacific
+01-04-2017,10/16/2003,SO61476,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,MICHELLE MORGAN,Southwest,United States,North America
+01-04-2017,12-04-2003,SO61476,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,MICHELLE MORGAN,Southwest,United States,North America
+01-04-2017,12-08-2003,SO61476,1,"Road-750 Black, 44",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,44,U,343.6496,539.99,196.3404,MICHELLE MORGAN,Southwest,United States,North America
+01-04-2017,11-06-2003,SO61451,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,MORGAN HUGHES,Canada,Canada,North America
+01-04-2017,12-11-2003,SO61451,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,MORGAN HUGHES,Canada,Canada,North America
+01-04-2017,09-12-2003,SO61451,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,MORGAN HUGHES,Canada,Canada,North America
+01-04-2017,12/17/2003,SO61451,1,"Long-Sleeve Logo Jersey, XL",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,XL,U,31.7244,48.0673,16.3429,MORGAN HUGHES,Canada,Canada,North America
+01-04-2017,10-11-2003,SO61451,1,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,MORGAN HUGHES,Canada,Canada,North America
+01-04-2017,10-06-2003,SO61479,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,NATHANIEL COOK,Southwest,United States,North America
+01-04-2017,11-07-2003,SO61479,1,"Road-350-W Yellow, 40","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,40,W,1082.51,1700.99,618.48,NATHANIEL COOK,Southwest,United States,North America
+01-04-2017,10/27/2003,SO61463,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,NICOLE WALKER,Southwest,United States,North America
+01-04-2017,10/24/2003,SO61437,2,"Half-Finger Gloves, M","Full padding, improved finger flex, durable palm, adjustable closure.",Black,M,U,9.7136,23.5481,13.8345,RENEE GUTIERREZ,United Kingdom,United Kingdom,Europe
+01-04-2017,11/26/2003,SO61437,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,RENEE GUTIERREZ,United Kingdom,United Kingdom,Europe
+01-04-2017,12/14/2003,SO61437,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,RENEE GUTIERREZ,United Kingdom,United Kingdom,Europe
+01-04-2017,11/15/2003,SO61437,1,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,RENEE GUTIERREZ,United Kingdom,United Kingdom,Europe
+01-04-2017,10-08-2003,SO61437,1,"Mountain-500 Black, 42","Suitable for any type of riding, on or off-road. Fits any budget. Smooth-shifting with a comfortable ride.",Black,42,U,294.5797,539.99,245.4103,RENEE GUTIERREZ,United Kingdom,United Kingdom,Europe
+01-04-2017,09-11-2003,SO61431,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,RICARDO SHE,Australia,Australia,Pacific
+01-04-2017,12-11-2003,SO61431,2,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,RICARDO SHE,Australia,Australia,Pacific
+01-04-2017,10/20/2003,SO61441,2,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,RICARDO RAJE,France,France,Europe
+01-04-2017,9/17/2003,SO61441,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,RICARDO RAJE,France,France,Europe
+01-04-2017,09-06-2003,SO61441,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,RICARDO RAJE,France,France,Europe
+01-04-2017,09-11-2003,SO61441,1,"Mountain-200 Silver, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,42,U,1117.8559,2071.4196,953.5637,RICARDO RAJE,France,France,Europe
+01-04-2017,12/19/2003,SO61449,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,SAMANTHA JENKINS,Canada,Canada,North America
+01-04-2017,11-09-2003,SO61449,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,SAMANTHA JENKINS,Canada,Canada,North America
+01-04-2017,12/13/2003,SO61456,1,"Classic Vest, M","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,M,U,23.749,63.5,39.751,SARA ADAMS,Northwest,United States,North America
+01-04-2017,10-12-2003,SO61456,1,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,SARA ADAMS,Northwest,United States,North America
+01-04-2017,11-05-2003,SO61467,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,SHANE MADAN,France,France,Europe
+01-04-2017,12/13/2003,SO61467,1,"Touring-3000 Blue, 44","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Blue,44,U,461.4448,742.35,280.9052,SHANE MADAN,France,France,Europe
+01-04-2017,9/22/2003,SO61457,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,SHAUN RAJE,Southwest,United States,North America
+01-04-2017,10-07-2003,SO61457,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,SHAUN RAJE,Southwest,United States,North America
+01-04-2017,9/28/2003,SO61477,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,TAYLOR MOORE,Canada,Canada,North America
+01-04-2017,9/29/2003,SO61477,1,"Road-550-W Yellow, 44","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,44,W,605.6492,1000.4375,394.7883,TAYLOR MOORE,Canada,Canada,North America
+01-04-2017,9/22/2003,SO61477,1,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,TAYLOR MOORE,Canada,Canada,North America
+01-04-2017,9/20/2003,SO61477,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,TAYLOR MOORE,Canada,Canada,North America
+01-04-2017,9/24/2003,SO61468,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,TINA KAPOOR,France,France,Europe
+01-04-2017,11-01-2003,SO61468,1,"Touring-3000 Blue, 58","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Blue,58,U,461.4448,742.35,280.9052,TINA KAPOOR,France,France,Europe
+01-04-2017,11/26/2003,SO61447,3,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,ZACHARY HUGHES,Canada,Canada,North America
+01-04-2017,10-02-2003,SO61447,2,"Racing Socks, M","Thin, lightweight and durable with cuffs that stay up.",White,M,U,3.3623,8.99,5.6277,ZACHARY HUGHES,Canada,Canada,North America
+01-04-2017,9/21/2003,SO61447,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ZACHARY HUGHES,Canada,Canada,North America
+01-04-2017,9/18/2003,SO61462,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ZACHARY LEWIS,Canada,Canada,North America
+01-04-2017,10/31/2003,SO61462,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,ZACHARY LEWIS,Canada,Canada,North America
+01-05-2017,12/17/2003,SO61522,1,"Short-Sleeve Classic Jersey, XL","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,XL,U,41.5723,53.99,12.4177,ADAM POWELL,Australia,Australia,Pacific
+01-05-2017,9/13/2003,SO61522,1,"Road-350-W Yellow, 48","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,48,W,1082.51,1700.99,618.48,ADAM POWELL,Australia,Australia,Pacific
+01-05-2017,9/26/2003,SO61501,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ALEXANDRA BENNETT,Northwest,United States,North America
+01-05-2017,10/20/2003,SO61501,1,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ALEXANDRA BENNETT,Northwest,United States,North America
+01-05-2017,09-11-2003,SO61501,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,ALEXANDRA BENNETT,Northwest,United States,North America
+01-05-2017,11-03-2003,SO61535,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,ALEXANDRIA POWELL,Northwest,United States,North America
+01-05-2017,10-09-2003,SO61535,1,"Road-750 Black, 44",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,44,U,343.6496,539.99,196.3404,ALEXANDRIA POWELL,Northwest,United States,North America
+01-05-2017,10/21/2003,SO61508,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ALVIN ZHANG,United Kingdom,United Kingdom,Europe
+01-05-2017,11/27/2003,SO61508,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ALVIN ZHANG,United Kingdom,United Kingdom,Europe
+01-05-2017,9/26/2003,SO61518,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ANGEL STEWART,Northwest,United States,North America
+01-05-2017,10-05-2003,SO61518,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,ANGEL STEWART,Northwest,United States,North America
+01-05-2017,12-06-2003,SO61518,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,ANGEL STEWART,Northwest,United States,North America
+01-05-2017,10-07-2003,SO61528,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,ANNA HOWARD,Southwest,United States,North America
+01-05-2017,11-11-2003,SO61528,1,"Touring-3000 Yellow, 54","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Yellow,54,U,461.4448,742.35,280.9052,ANNA HOWARD,Southwest,United States,North America
+01-05-2017,10/23/2003,SO61513,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ANNE NAVARRO,Germany,Germany,Europe
+01-05-2017,11/26/2003,SO61513,1,"Short-Sleeve Classic Jersey, XL","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,XL,U,41.5723,53.99,12.4177,ANNE NAVARRO,Germany,Germany,Europe
+01-05-2017,11/27/2003,SO61529,2,"Racing Socks, L","Thin, lightweight and durable with cuffs that stay up.",White,L,U,3.3623,8.99,5.6277,ANTHONY RODRIGUEZ,Canada,Canada,North America
+01-05-2017,12-03-2003,SO61529,1,"Touring-2000 Blue, 50","The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Blue,50,U,755.1508,1214.85,459.6992,ANTHONY RODRIGUEZ,Canada,Canada,North America
+01-05-2017,9/19/2003,SO61493,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,BLAKE MOORE,Northwest,United States,North America
+01-05-2017,11-01-2003,SO61531,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,BROOKE ROGERS,Southwest,United States,North America
+01-05-2017,10/15/2003,SO61531,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,BROOKE ROGERS,Southwest,United States,North America
+01-05-2017,09-10-2003,SO61531,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,BROOKE ROGERS,Southwest,United States,North America
+01-05-2017,11/18/2003,SO61531,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,BROOKE ROGERS,Southwest,United States,North America
+01-05-2017,11-01-2003,SO61531,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,BROOKE ROGERS,Southwest,United States,North America
+01-05-2017,12-03-2003,SO61499,3,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,CHARLES JACKSON,Canada,Canada,North America
+01-05-2017,10/22/2003,SO61499,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,CHARLES JACKSON,Canada,Canada,North America
+01-05-2017,10/25/2003,SO61499,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,CHARLES JACKSON,Canada,Canada,North America
+01-05-2017,10-04-2003,SO61499,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,CHARLES JACKSON,Canada,Canada,North America
+01-05-2017,11-06-2003,SO61499,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,CHARLES JACKSON,Canada,Canada,North America
+01-05-2017,9/26/2003,SO61524,2,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,CHERYL GUTIERREZ,Australia,Australia,Pacific
+01-05-2017,10-04-2003,SO61524,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,CHERYL GUTIERREZ,Australia,Australia,Pacific
+01-05-2017,12/19/2003,SO61524,1,"Road-550-W Yellow, 44","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,44,W,605.6492,1000.4375,394.7883,CHERYL GUTIERREZ,Australia,Australia,Pacific
+01-05-2017,10/14/2003,SO61524,1,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,CHERYL GUTIERREZ,Australia,Australia,Pacific
+01-05-2017,12/21/2003,SO61486,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,COLIN KUMAR,Australia,Australia,Pacific
+01-05-2017,11/13/2003,SO61486,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,COLIN KUMAR,Australia,Australia,Pacific
+01-05-2017,12-06-2003,SO61486,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,COLIN KUMAR,Australia,Australia,Pacific
+01-05-2017,12/14/2003,SO61502,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,DERRICK RAMOS,Canada,Canada,North America
+01-05-2017,10/20/2003,SO61502,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,DERRICK RAMOS,Canada,Canada,North America
+01-05-2017,12/13/2003,SO61502,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,DERRICK RAMOS,Canada,Canada,North America
+01-05-2017,12/14/2003,SO61484,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,DESTINY BAILEY,Australia,Australia,Pacific
+01-05-2017,11-10-2003,SO61484,1,"Short-Sleeve Classic Jersey, XL","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,XL,U,41.5723,53.99,12.4177,DESTINY BAILEY,Australia,Australia,Pacific
+01-05-2017,12-09-2003,SO61536,1,"Long-Sleeve Logo Jersey, M",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,M,U,31.7244,48.0673,16.3429,DESTINY JENKINS,Southwest,United States,North America
+01-05-2017,11-06-2003,SO61536,1,"Road-350-W Yellow, 40","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,40,W,1082.51,1700.99,618.48,DESTINY JENKINS,Southwest,United States,North America
+01-05-2017,10/25/2003,SO61523,2,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,FERNANDO BRYANT,Australia,Australia,Pacific
+01-05-2017,11/25/2003,SO61523,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,FERNANDO BRYANT,Australia,Australia,Pacific
+01-05-2017,11/23/2003,SO61523,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,FERNANDO BRYANT,Australia,Australia,Pacific
+01-05-2017,10-06-2003,SO61523,1,"Road-250 Black, 44","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Black,44,U,1320.6838,2181.5625,860.8787,FERNANDO BRYANT,Australia,Australia,Pacific
+01-05-2017,10-05-2003,SO61523,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,FERNANDO BRYANT,Australia,Australia,Pacific
+01-05-2017,10-10-2003,SO61489,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,GARY NAVARRO,United Kingdom,United Kingdom,Europe
+01-05-2017,10/30/2003,SO61489,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,GARY NAVARRO,United Kingdom,United Kingdom,Europe
+01-05-2017,10/13/2003,SO61489,1,"Mountain-200 Silver, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,42,U,1117.8559,2071.4196,953.5637,GARY NAVARRO,United Kingdom,United Kingdom,Europe
+01-05-2017,9/18/2003,SO61514,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,GARY HERNANDEZ,Germany,Germany,Europe
+01-05-2017,11/17/2003,SO61498,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,GAVIN RUSSELL,Northwest,United States,North America
+01-05-2017,11-04-2003,SO61498,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,GAVIN RUSSELL,Northwest,United States,North America
+01-05-2017,12/19/2003,SO61498,1,Hitch Rack - 4-Bike,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch.",NA,0,0,44.88,120,75.12,GAVIN RUSSELL,Northwest,United States,North America
+01-05-2017,12-02-2003,SO61509,3,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,GILBERT TANG,United Kingdom,United Kingdom,Europe
+01-05-2017,11/26/2003,SO61509,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,GILBERT TANG,United Kingdom,United Kingdom,Europe
+01-05-2017,10/17/2003,SO61509,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,GILBERT TANG,United Kingdom,United Kingdom,Europe
+01-05-2017,9/23/2003,SO61509,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,GILBERT TANG,United Kingdom,United Kingdom,Europe
+01-05-2017,11/19/2003,SO61519,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,HOLLY MEHTA,Northwest,United States,North America
+01-05-2017,11/21/2003,SO61519,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,HOLLY MEHTA,Northwest,United States,North America
+01-05-2017,10-11-2003,SO61519,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,HOLLY MEHTA,Northwest,United States,North America
+01-05-2017,10/31/2003,SO61530,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,IAN BAKER,Canada,Canada,North America
+01-05-2017,11/16/2003,SO61530,1,"Road-750 Black, 48",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,48,U,343.6496,539.99,196.3404,IAN BAKER,Canada,Canada,North America
+01-05-2017,12-08-2003,SO61516,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ISAAC EVANS,United Kingdom,United Kingdom,Europe
+01-05-2017,11/28/2003,SO61516,1,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,ISAAC EVANS,United Kingdom,United Kingdom,Europe
+01-05-2017,11-10-2003,SO61512,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,JENNA TURNER,United Kingdom,United Kingdom,Europe
+01-05-2017,11/24/2003,SO61512,1,"Classic Vest, M","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,M,U,23.749,63.5,39.751,JENNA TURNER,United Kingdom,United Kingdom,Europe
+01-05-2017,10/26/2003,SO61537,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,JENNY HE,United Kingdom,United Kingdom,Europe
+01-05-2017,9/25/2003,SO61537,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,JENNY HE,United Kingdom,United Kingdom,Europe
+01-05-2017,10/17/2003,SO61537,1,"Road-550-W Yellow, 42","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,42,W,605.6492,1000.4375,394.7883,JENNY HE,United Kingdom,United Kingdom,Europe
+01-05-2017,10/28/2003,SO61537,1,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,JENNY HE,United Kingdom,United Kingdom,Europe
+01-05-2017,10/27/2003,SO61525,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,JESSIE SHE,Australia,Australia,Pacific
+01-05-2017,11/14/2003,SO61525,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,JESSIE SHE,Australia,Australia,Pacific
+01-05-2017,12-10-2003,SO61525,1,"Mountain-200 Silver, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,46,U,1117.8559,2071.4196,953.5637,JESSIE SHE,Australia,Australia,Pacific
+01-05-2017,12/18/2003,SO61507,1,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,JOAN COOK,Canada,Canada,North America
+01-05-2017,10-09-2003,SO61510,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,JORGE LI,United Kingdom,United Kingdom,Europe
+01-05-2017,11/27/2003,SO61510,1,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,JORGE LI,United Kingdom,United Kingdom,Europe
+01-05-2017,9/25/2003,SO61520,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,JOSE EDWARDS,Northwest,United States,North America
+01-05-2017,12-04-2003,SO61520,1,"Mountain-200 Silver, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,46,U,1117.8559,2071.4196,953.5637,JOSE EDWARDS,Northwest,United States,North America
+01-05-2017,9/27/2003,SO61520,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,JOSE EDWARDS,Northwest,United States,North America
+01-05-2017,11/16/2003,SO61527,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,JOSE THOMPSON,Canada,Canada,North America
+01-05-2017,11-01-2003,SO61527,1,"Touring-2000 Blue, 50","The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Blue,50,U,755.1508,1214.85,459.6992,JOSE THOMPSON,Canada,Canada,North America
+01-05-2017,9/29/2003,SO61521,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,KAITLYN RIVERA,Canada,Canada,North America
+01-05-2017,12-09-2003,SO61521,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,KAITLYN RIVERA,Canada,Canada,North America
+01-05-2017,09-08-2003,SO61521,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,KAITLYN RIVERA,Canada,Canada,North America
+01-05-2017,11-04-2003,SO61521,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,KAITLYN RIVERA,Canada,Canada,North America
+01-05-2017,11/27/2003,SO61521,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,KAITLYN RIVERA,Canada,Canada,North America
+01-05-2017,11-04-2003,SO61504,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,KATHERINE POWELL,Canada,Canada,North America
+01-05-2017,09-09-2003,SO61504,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,KATHERINE POWELL,Canada,Canada,North America
+01-05-2017,12-04-2003,SO61504,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,KATHERINE POWELL,Canada,Canada,North America
+01-05-2017,10-09-2003,SO61504,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,KATHERINE POWELL,Canada,Canada,North America
+01-05-2017,11/27/2003,SO61500,2,"Racing Socks, L","Thin, lightweight and durable with cuffs that stay up.",White,L,U,3.3623,8.99,5.6277,KAYLA HALL,Southwest,United States,North America
+01-05-2017,12/14/2003,SO61500,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,KAYLA HALL,Southwest,United States,North America
+01-05-2017,09-10-2003,SO61500,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,KAYLA HALL,Southwest,United States,North America
+01-05-2017,12/16/2003,SO61491,3,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,LATASHA DOMINGUEZ,France,France,Europe
+01-05-2017,10/26/2003,SO61491,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,LATASHA DOMINGUEZ,France,France,Europe
+01-05-2017,11/30/2003,SO61491,1,"Mountain-200 Black, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,38,U,1105.81,2049.0982,943.2882,LATASHA DOMINGUEZ,France,France,Europe
+01-05-2017,9/16/2003,SO61491,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,LATASHA DOMINGUEZ,France,France,Europe
+01-05-2017,9/21/2003,SO61538,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,LESLIE GILL,Australia,Australia,Pacific
+01-05-2017,12-01-2003,SO61538,1,"Women's Mountain Shorts, S","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,S,W,26.1763,69.99,43.8137,LESLIE GILL,Australia,Australia,Pacific
+01-05-2017,11-08-2003,SO61538,1,"Mountain-400-W Silver, 46","This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Silver,46,W,419.7784,769.49,349.7116,LESLIE GILL,Australia,Australia,Pacific
+01-05-2017,11-02-2003,SO61483,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,MAX RUBIO,Australia,Australia,Pacific
+01-05-2017,9/15/2003,SO61483,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,MAX RUBIO,Australia,Australia,Pacific
+01-05-2017,9/25/2003,SO61483,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,MAX RUBIO,Australia,Australia,Pacific
+01-05-2017,12-08-2003,SO61533,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,MEGAN DAVIS,Southwest,United States,North America
+01-05-2017,12-09-2003,SO61533,1,"Road-750 Black, 44",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,44,U,343.6496,539.99,196.3404,MEGAN DAVIS,Southwest,United States,North America
+01-05-2017,10/17/2003,SO61503,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,MELISSA FLORES,Northwest,United States,North America
+01-05-2017,10/19/2003,SO61485,1,"Women's Mountain Shorts, M","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,M,W,26.1763,69.99,43.8137,MICHELE MEHTA,Australia,Australia,Pacific
+01-05-2017,10-05-2003,SO61485,1,"Short-Sleeve Classic Jersey, XL","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,XL,U,41.5723,53.99,12.4177,MICHELE MEHTA,Australia,Australia,Pacific
+01-05-2017,9/19/2003,SO61488,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,MICHELE SCHMIDT,United Kingdom,United Kingdom,Europe
+01-05-2017,11-01-2003,SO61488,1,"Women's Mountain Shorts, M","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,M,W,26.1763,69.99,43.8137,MICHELE SCHMIDT,United Kingdom,United Kingdom,Europe
+01-05-2017,11/18/2003,SO61488,1,"Mountain-400-W Silver, 42","This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Silver,42,W,419.7784,769.49,349.7116,MICHELE SCHMIDT,United Kingdom,United Kingdom,Europe
+01-05-2017,11-03-2003,SO61526,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,MORGAN RODRIGUEZ,Canada,Canada,North America
+01-05-2017,10/31/2003,SO61526,1,"Touring-2000 Blue, 60","The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Blue,60,U,755.1508,1214.85,459.6992,MORGAN RODRIGUEZ,Canada,Canada,North America
+01-05-2017,11-12-2003,SO61494,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,NAOMI MUNOZ,Northwest,United States,North America
+01-05-2017,9/27/2003,SO61494,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,NAOMI MUNOZ,Northwest,United States,North America
+01-05-2017,10/19/2003,SO61492,1,"Mountain-200 Black, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,38,U,1105.81,2049.0982,943.2882,NELSON ORTEGA,United Kingdom,United Kingdom,Europe
+01-05-2017,09-11-2003,SO61495,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,NICHOLAS BROWN,Canada,Canada,North America
+01-05-2017,11-08-2003,SO61505,1,"Women's Mountain Shorts, M","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,M,W,26.1763,69.99,43.8137,NICOLE HARRIS,Southwest,United States,North America
+01-05-2017,09-11-2003,SO61506,1,"Classic Vest, M","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,M,U,23.749,63.5,39.751,NICOLE GRAY,Southwest,United States,North America
+01-05-2017,11/14/2003,SO61506,1,"Women's Mountain Shorts, L","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,L,W,26.1763,69.99,43.8137,NICOLE GRAY,Southwest,United States,North America
+01-05-2017,10/16/2003,SO61511,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,RACHEL JAMES,France,France,Europe
+01-05-2017,12/15/2003,SO61511,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,RACHEL JAMES,France,France,Europe
+01-05-2017,12-11-2003,SO61482,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,RODNEY RAMOS,Australia,Australia,Pacific
+01-05-2017,9/16/2003,SO61482,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,RODNEY RAMOS,Australia,Australia,Pacific
+01-05-2017,10/27/2003,SO61482,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,RODNEY RAMOS,Australia,Australia,Pacific
+01-05-2017,11-09-2003,SO61490,3,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,RUSSELL SHARMA,France,France,Europe
+01-05-2017,11-02-2003,SO61490,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,RUSSELL SHARMA,France,France,Europe
+01-05-2017,11/29/2003,SO61490,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,RUSSELL SHARMA,France,France,Europe
+01-05-2017,10/17/2003,SO61490,1,"Long-Sleeve Logo Jersey, S",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,S,U,31.7244,48.0673,16.3429,RUSSELL SHARMA,France,France,Europe
+01-05-2017,9/16/2003,SO61490,1,"Mountain-200 Black, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,46,U,1105.81,2049.0982,943.2882,RUSSELL SHARMA,France,France,Europe
+01-05-2017,9/25/2003,SO61532,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,SAVANNAH JAMES,Northwest,United States,North America
+01-05-2017,12-05-2003,SO61532,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,SAVANNAH JAMES,Northwest,United States,North America
+01-05-2017,09-07-2003,SO61532,1,"Racing Socks, M","Thin, lightweight and durable with cuffs that stay up.",White,M,U,3.3623,8.99,5.6277,SAVANNAH JAMES,Northwest,United States,North America
+01-05-2017,11/19/2003,SO61532,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,SAVANNAH JAMES,Northwest,United States,North America
+01-05-2017,10/28/2003,SO61487,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,TERRANCE LOPEZ,Australia,Australia,Pacific
+01-05-2017,9/19/2003,SO61517,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,THOMAS WALKER,Canada,Canada,North America
+01-05-2017,10/25/2003,SO61515,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,VICTOR DOMINGUEZ,United Kingdom,United Kingdom,Europe
+01-05-2017,9/17/2003,SO61515,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,VICTOR DOMINGUEZ,United Kingdom,United Kingdom,Europe
+01-05-2017,09-11-2003,SO61515,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,VICTOR DOMINGUEZ,United Kingdom,United Kingdom,Europe
+01-06-2017,11/29/2003,SO61594,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,ABBY GONZALEZ,France,France,Europe
+01-06-2017,9/14/2003,SO61594,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,ABBY GONZALEZ,France,France,Europe
+01-06-2017,12-06-2003,SO61594,1,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,ABBY GONZALEZ,France,France,Europe
+01-06-2017,11/21/2003,SO61594,1,"Short-Sleeve Classic Jersey, XL","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,XL,U,41.5723,53.99,12.4177,ABBY GONZALEZ,France,France,Europe
+01-06-2017,9/26/2003,SO61594,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,ABBY GONZALEZ,France,France,Europe
+01-06-2017,10/14/2003,SO61540,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,ALEJANDRO YANG,Australia,Australia,Pacific
+01-06-2017,11/17/2003,SO61540,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,ALEJANDRO YANG,Australia,Australia,Pacific
+01-06-2017,9/21/2003,SO61540,1,"Classic Vest, M","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,M,U,23.749,63.5,39.751,ALEJANDRO YANG,Australia,Australia,Pacific
+01-06-2017,11-09-2003,SO61540,1,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,ALEJANDRO YANG,Australia,Australia,Pacific
+01-06-2017,10-03-2003,SO61567,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ALISHA YANG,France,France,Europe
+01-06-2017,10-01-2003,SO61567,2,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,ALISHA YANG,France,France,Europe
+01-06-2017,9/22/2003,SO61567,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ALISHA YANG,France,France,Europe
+01-06-2017,10-11-2003,SO61577,3,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,AMANDA NELSON,Southwest,United States,North America
+01-06-2017,9/27/2003,SO61577,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,AMANDA NELSON,Southwest,United States,North America
+01-06-2017,10/21/2003,SO61591,3,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,ANDREA SANCHEZ,Southwest,United States,North America
+01-06-2017,11/30/2003,SO61591,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ANDREA SANCHEZ,Southwest,United States,North America
+01-06-2017,9/30/2003,SO61591,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,ANDREA SANCHEZ,Southwest,United States,North America
+01-06-2017,10-01-2003,SO61591,1,"Road-750 Black, 48",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,48,U,343.6496,539.99,196.3404,ANDREA SANCHEZ,Southwest,United States,North America
+01-06-2017,11-06-2003,SO61545,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,ASHLEE TANG,Australia,Australia,Pacific
+01-06-2017,11/25/2003,SO61545,1,"Long-Sleeve Logo Jersey, XL",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,XL,U,31.7244,48.0673,16.3429,ASHLEE TANG,Australia,Australia,Pacific
+01-06-2017,10/28/2003,SO61563,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ASHLEE NARA,Germany,Germany,Europe
+01-06-2017,9/14/2003,SO61563,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ASHLEE NARA,Germany,Germany,Europe
+01-06-2017,11/24/2003,SO61582,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,BONNIE YUAN,United Kingdom,United Kingdom,Europe
+01-06-2017,11/19/2003,SO61582,1,"Touring-3000 Yellow, 44","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Yellow,44,U,461.4448,742.35,280.9052,BONNIE YUAN,United Kingdom,United Kingdom,Europe
+01-06-2017,10/30/2003,SO61546,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,BRUCE MADAN,Australia,Australia,Pacific
+01-06-2017,9/28/2003,SO61549,1,"Mountain-200 Silver, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,46,U,1117.8559,2071.4196,953.5637,BRYANT VAN,United Kingdom,United Kingdom,Europe
+01-06-2017,11/29/2003,SO61558,3,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,CALEB FLORES,Canada,Canada,North America
+01-06-2017,12-10-2003,SO61558,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,CALEB FLORES,Canada,Canada,North America
+01-06-2017,10/19/2003,SO61558,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,CALEB FLORES,Canada,Canada,North America
+01-06-2017,10-09-2003,SO61597,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,CARA ZHENG,Australia,Australia,Pacific
+01-06-2017,11-04-2003,SO61597,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,CARA ZHENG,Australia,Australia,Pacific
+01-06-2017,12-01-2003,SO61597,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,CARA ZHENG,Australia,Australia,Pacific
+01-06-2017,10/31/2003,SO61578,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,CESAR SRINI,United Kingdom,United Kingdom,Europe
+01-06-2017,9/16/2003,SO61592,1,"Road-550-W Yellow, 40","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,40,W,605.6492,1000.4375,394.7883,CLARENCE YUAN,United Kingdom,United Kingdom,Europe
+01-06-2017,11/26/2003,SO61592,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,CLARENCE YUAN,United Kingdom,United Kingdom,Europe
+01-06-2017,12-12-2003,SO61588,1,"Mountain-200 Silver, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,38,U,1117.8559,2071.4196,953.5637,DALTON MILLER,Australia,Australia,Pacific
+01-06-2017,10/27/2003,SO61588,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,DALTON MILLER,Australia,Australia,Pacific
+01-06-2017,11-12-2003,SO61576,3,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,DANIELLE JAMES,Southwest,United States,North America
+01-06-2017,12-09-2003,SO61576,1,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,DANIELLE JAMES,Southwest,United States,North America
+01-06-2017,09-08-2003,SO61576,1,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,DANIELLE JAMES,Southwest,United States,North America
+01-06-2017,11/13/2003,SO61576,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,DANIELLE JAMES,Southwest,United States,North America
+01-06-2017,10/20/2003,SO61579,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,DENNIS ZHU,Southwest,United States,North America
+01-06-2017,10/13/2003,SO61579,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,DENNIS ZHU,Southwest,United States,North America
+01-06-2017,9/21/2003,SO61579,1,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,DENNIS ZHU,Southwest,United States,North America
+01-06-2017,12/22/2003,SO61587,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,EVELYN RODRIGUEZ,Australia,Australia,Pacific
+01-06-2017,12-04-2003,SO61587,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,EVELYN RODRIGUEZ,Australia,Australia,Pacific
+01-06-2017,10/14/2003,SO61587,1,"Mountain-200 Silver, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,38,U,1117.8559,2071.4196,953.5637,EVELYN RODRIGUEZ,Australia,Australia,Pacific
+01-06-2017,12/16/2003,SO61568,3,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,FREDERICK MALHOTRA,United Kingdom,United Kingdom,Europe
+01-06-2017,10/13/2003,SO61568,1,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,FREDERICK MALHOTRA,United Kingdom,United Kingdom,Europe
+01-06-2017,11/26/2003,SO61565,3,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,HEATHER LU,Germany,Germany,Europe
+01-06-2017,11/30/2003,SO61565,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,HEATHER LU,Germany,Germany,Europe
+01-06-2017,10/22/2003,SO61565,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,HEATHER LU,Germany,Germany,Europe
+01-06-2017,09-12-2003,SO61572,2,"Racing Socks, L","Thin, lightweight and durable with cuffs that stay up.",White,L,U,3.3623,8.99,5.6277,HECTOR ALONSO,United Kingdom,United Kingdom,Europe
+01-06-2017,11-05-2003,SO61572,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,HECTOR ALONSO,United Kingdom,United Kingdom,Europe
+01-06-2017,12-01-2003,SO61572,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,HECTOR ALONSO,United Kingdom,United Kingdom,Europe
+01-06-2017,11-12-2003,SO61552,3,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,JASMINE POWELL,Canada,Canada,North America
+01-06-2017,11/24/2003,SO61552,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,JASMINE POWELL,Canada,Canada,North America
+01-06-2017,09-12-2003,SO61552,1,"Long-Sleeve Logo Jersey, XL",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,XL,U,31.7244,48.0673,16.3429,JASMINE POWELL,Canada,Canada,North America
+01-06-2017,9/22/2003,SO61566,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,JEFFERY LIANG,United Kingdom,United Kingdom,Europe
+01-06-2017,10-05-2003,SO61566,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,JEFFERY LIANG,United Kingdom,United Kingdom,Europe
+01-06-2017,10/13/2003,SO61566,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,JEFFERY LIANG,United Kingdom,United Kingdom,Europe
+01-06-2017,10-02-2003,SO61557,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,JESSE COX,Northwest,United States,North America
+01-06-2017,12/22/2003,SO61593,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,JOAN GAO,Germany,Germany,Europe
+01-06-2017,10/13/2003,SO61593,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,JOAN GAO,Germany,Germany,Europe
+01-06-2017,10-12-2003,SO61593,1,"Road-550-W Yellow, 40","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,40,W,605.6492,1000.4375,394.7883,JOAN GAO,Germany,Germany,Europe
+01-06-2017,12/13/2003,SO61570,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,JOSUE BLANCO,France,France,Europe
+01-06-2017,11/26/2003,SO61570,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,JOSUE BLANCO,France,France,Europe
+01-06-2017,11-02-2003,SO61570,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,JOSUE BLANCO,France,France,Europe
+01-06-2017,10/19/2003,SO61570,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,JOSUE BLANCO,France,France,Europe
+01-06-2017,12-12-2003,SO61570,1,All-Purpose Bike Stand,Perfect all-purpose bike stand for working on your bike at home. Quick-adjusting clamps and steel construction.,NA,0,0,59.466,159,99.534,JOSUE BLANCO,France,France,Europe
+01-06-2017,9/15/2003,SO61561,3,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,KAITLYN KELLY,Northwest,United States,North America
+01-06-2017,11/15/2003,SO61561,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,KAITLYN KELLY,Northwest,United States,North America
+01-06-2017,11/20/2003,SO61544,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,KARI SURI,Australia,Australia,Pacific
+01-06-2017,9/26/2003,SO61544,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,KARI SURI,Australia,Australia,Pacific
+01-06-2017,9/27/2003,SO61548,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,KATHERINE PERRY,Germany,Germany,Europe
+01-06-2017,10-10-2003,SO61548,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,KATHERINE PERRY,Germany,Germany,Europe
+01-06-2017,10-10-2003,SO61548,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,KATHERINE PERRY,Germany,Germany,Europe
+01-06-2017,09-09-2003,SO61548,1,"Mountain-200 Black, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,42,U,1105.81,2049.0982,943.2882,KATHERINE PERRY,Germany,Germany,Europe
+01-06-2017,9/21/2003,SO61560,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,KAYLEE TURNER,Canada,Canada,North America
+01-06-2017,11-11-2003,SO61560,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,KAYLEE TURNER,Canada,Canada,North America
+01-06-2017,12-08-2003,SO61560,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,KAYLEE TURNER,Canada,Canada,North America
+01-06-2017,9/21/2003,SO61575,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,KAYLEE REED,Canada,Canada,North America
+01-06-2017,12-02-2003,SO61575,1,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,KAYLEE REED,Canada,Canada,North America
+01-06-2017,9/30/2003,SO61541,1,"Women's Mountain Shorts, L","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,L,W,26.1763,69.99,43.8137,KRISTA VAZQUEZ,Australia,Australia,Pacific
+01-06-2017,10/18/2003,SO61569,3,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,KRISTIN LUO,France,France,Europe
+01-06-2017,9/16/2003,SO61569,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,KRISTIN LUO,France,France,Europe
+01-06-2017,9/24/2003,SO61569,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,KRISTIN LUO,France,France,Europe
+01-06-2017,10/21/2003,SO61595,3,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,KRISTIN PAL,United Kingdom,United Kingdom,Europe
+01-06-2017,11/22/2003,SO61595,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,KRISTIN PAL,United Kingdom,United Kingdom,Europe
+01-06-2017,9/13/2003,SO61595,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,KRISTIN PAL,United Kingdom,United Kingdom,Europe
+01-06-2017,11/28/2003,SO61595,1,"Road-750 Black, 52",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,52,U,343.6496,539.99,196.3404,KRISTIN PAL,United Kingdom,United Kingdom,Europe
+01-06-2017,11/28/2003,SO61574,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,LAURA ZHU,United Kingdom,United Kingdom,Europe
+01-06-2017,12/18/2003,SO61574,1,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,LAURA ZHU,United Kingdom,United Kingdom,Europe
+01-06-2017,11/24/2003,SO61589,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,LAURA HU,Southwest,United States,North America
+01-06-2017,12/19/2003,SO61589,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,LAURA HU,Southwest,United States,North America
+01-06-2017,11/13/2003,SO61589,1,"Touring-3000 Blue, 62","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Blue,62,U,461.4448,742.35,280.9052,LAURA HU,Southwest,United States,North America
+01-06-2017,12-05-2003,SO61562,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,MARCUS TAYLOR,Canada,Canada,North America
+01-06-2017,10-07-2003,SO61562,1,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,MARCUS TAYLOR,Canada,Canada,North America
+01-06-2017,9/19/2003,SO61553,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,MARIA JENKINS,Southwest,United States,North America
+01-06-2017,9/30/2003,SO61553,1,"Long-Sleeve Logo Jersey, M",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,M,U,31.7244,48.0673,16.3429,MARIA JENKINS,Southwest,United States,North America
+01-06-2017,12/17/2003,SO61586,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,MARIA PERRY,Australia,Australia,Pacific
+01-06-2017,10/20/2003,SO61586,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,MARIA PERRY,Australia,Australia,Pacific
+01-06-2017,12-09-2003,SO61586,2,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,MARIA PERRY,Australia,Australia,Pacific
+01-06-2017,9/20/2003,SO61586,1,"Road-550-W Yellow, 42","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,42,W,605.6492,1000.4375,394.7883,MARIA PERRY,Australia,Australia,Pacific
+01-06-2017,12-09-2003,SO61590,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,MARK BEBBINGTON,Southwest,United States,North America
+01-06-2017,11/27/2003,SO61590,1,"Touring-1000 Yellow, 50",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,50,U,1481.9379,2384.07,902.1321,MARK BEBBINGTON,Southwest,United States,North America
+01-06-2017,11/29/2003,SO61556,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,MIGUEL YOUNG,Southwest,United States,North America
+01-06-2017,9/25/2003,SO61556,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,MIGUEL YOUNG,Southwest,United States,North America
+01-06-2017,12-01-2003,SO61550,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,MORGAN BENNETT,United Kingdom,United Kingdom,Europe
+01-06-2017,9/24/2003,SO61550,1,"Mountain-200 Black, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,42,U,1105.81,2049.0982,943.2882,MORGAN BENNETT,United Kingdom,United Kingdom,Europe
+01-06-2017,12-05-2003,SO61550,1,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,MORGAN BENNETT,United Kingdom,United Kingdom,Europe
+01-06-2017,9/29/2003,SO61550,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,MORGAN BENNETT,United Kingdom,United Kingdom,Europe
+01-06-2017,11-11-2003,SO61584,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,NATALIE GONZALEZ,Australia,Australia,Pacific
+01-06-2017,11-10-2003,SO61584,1,"Road-550-W Yellow, 44","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,44,W,605.6492,1000.4375,394.7883,NATALIE GONZALEZ,Australia,Australia,Pacific
+01-06-2017,11/14/2003,SO61542,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,NINA XIE,Australia,Australia,Pacific
+01-06-2017,10/20/2003,SO61542,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,NINA XIE,Australia,Australia,Pacific
+01-06-2017,10-05-2003,SO61580,1,"Mountain-200 Silver, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,46,U,1117.8559,2071.4196,953.5637,RACHEL BRADLEY,Canada,Canada,North America
+01-06-2017,11/20/2003,SO61580,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,RACHEL BRADLEY,Canada,Canada,North America
+01-06-2017,10/28/2003,SO61571,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,REBEKAH SURI,Germany,Germany,Europe
+01-06-2017,12-05-2003,SO61571,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,REBEKAH SURI,Germany,Germany,Europe
+01-06-2017,12-03-2003,SO61571,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,REBEKAH SURI,Germany,Germany,Europe
+01-06-2017,11-12-2003,SO61554,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ROBERT ROSS,Southwest,United States,North America
+01-06-2017,12/14/2003,SO61554,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,ROBERT ROSS,Southwest,United States,North America
+01-06-2017,10/28/2003,SO61554,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,ROBERT ROSS,Southwest,United States,North America
+01-06-2017,10/29/2003,SO61543,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ROGER ZHANG,Australia,Australia,Pacific
+01-06-2017,11/22/2003,SO61543,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ROGER ZHANG,Australia,Australia,Pacific
+01-06-2017,10/17/2003,SO61583,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,RONALD KAPOOR,France,France,Europe
+01-06-2017,12/22/2003,SO61583,1,"Touring-1000 Yellow, 54",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,54,U,1481.9379,2384.07,902.1321,RONALD KAPOOR,France,France,Europe
+01-06-2017,09-08-2003,SO61547,3,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,RUTH LOPEZ,Germany,Germany,Europe
+01-06-2017,11/13/2003,SO61547,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,RUTH LOPEZ,Germany,Germany,Europe
+01-06-2017,10/15/2003,SO61547,1,"Road-350-W Yellow, 48","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,48,W,1082.51,1700.99,618.48,RUTH LOPEZ,Germany,Germany,Europe
+01-06-2017,10/22/2003,SO61555,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,RYAN THOMPSON,Canada,Canada,North America
+01-06-2017,9/24/2003,SO61555,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,RYAN THOMPSON,Canada,Canada,North America
+01-06-2017,10/19/2003,SO61555,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,RYAN THOMPSON,Canada,Canada,North America
+01-06-2017,9/14/2003,SO61581,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,SOPHIA HILL,Southwest,United States,North America
+01-06-2017,09-12-2003,SO61581,1,"Mountain-200 Silver, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,42,U,1117.8559,2071.4196,953.5637,SOPHIA HILL,Southwest,United States,North America
+01-06-2017,9/30/2003,SO61581,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,SOPHIA HILL,Southwest,United States,North America
+01-06-2017,9/22/2003,SO61559,2,"Half-Finger Gloves, M","Full padding, improved finger flex, durable palm, adjustable closure.",Black,M,U,9.7136,23.5481,13.8345,STEPHANIE HENDERSON,Canada,Canada,North America
+01-06-2017,9/15/2003,SO61559,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,STEPHANIE HENDERSON,Canada,Canada,North America
+01-06-2017,11-02-2003,SO61559,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,STEPHANIE HENDERSON,Canada,Canada,North America
+01-06-2017,11/15/2003,SO61559,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,STEPHANIE HENDERSON,Canada,Canada,North America
+01-06-2017,12-12-2003,SO61573,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,STEVE HU,United Kingdom,United Kingdom,Europe
+01-06-2017,10-04-2003,SO61573,2,"Racing Socks, L","Thin, lightweight and durable with cuffs that stay up.",White,L,U,3.3623,8.99,5.6277,STEVE HU,United Kingdom,United Kingdom,Europe
+01-06-2017,11/23/2003,SO61564,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,TASHA SHE,Germany,Germany,Europe
+01-06-2017,9/17/2003,SO61539,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,TRISHA XU,Australia,Australia,Pacific
+01-06-2017,12/19/2003,SO61539,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,TRISHA XU,Australia,Australia,Pacific
+01-06-2017,9/28/2003,SO61539,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,TRISHA XU,Australia,Australia,Pacific
+01-06-2017,9/13/2003,SO61596,1,"Mountain-400-W Silver, 46","This bike delivers a high-level of performance on a budget. It is responsive and maneuverable, and offers peace-of-mind when you decide to go off-road.",Silver,46,W,419.7784,769.49,349.7116,WALTER JIMENEZ,Australia,Australia,Pacific
+01-06-2017,10/14/2003,SO61585,1,"Road-550-W Yellow, 40","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,40,W,605.6492,1000.4375,394.7883,WARREN ZENG,Australia,Australia,Pacific
+01-06-2017,9/23/2003,SO61551,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,WHITNEY LOPEZ,Southwest,United States,North America
+01-06-2017,11-05-2003,SO61551,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,WHITNEY LOPEZ,Southwest,United States,North America
+01-07-2017,12-12-2003,SO61599,3,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ANN PATEL,Australia,Australia,Pacific
+01-07-2017,09-10-2003,SO61599,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,ANN PATEL,Australia,Australia,Pacific
+01-07-2017,10/16/2003,SO61654,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,ANN GONZALEZ,Australia,Australia,Pacific
+01-07-2017,10/27/2003,SO61654,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,ANN GONZALEZ,Australia,Australia,Pacific
+01-07-2017,09-12-2003,SO61654,1,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,ANN GONZALEZ,Australia,Australia,Pacific
+01-07-2017,12/22/2003,SO61654,1,"Touring-1000 Yellow, 46",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,46,U,1481.9379,2384.07,902.1321,ANN GONZALEZ,Australia,Australia,Pacific
+01-07-2017,11/28/2003,SO61613,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ASHLEY HENDERSON,Canada,Canada,North America
+01-07-2017,10/30/2003,SO61613,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,ASHLEY HENDERSON,Canada,Canada,North America
+01-07-2017,9/30/2003,SO61613,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,ASHLEY HENDERSON,Canada,Canada,North America
+01-07-2017,10/23/2003,SO61617,1,"Women's Mountain Shorts, M","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,M,W,26.1763,69.99,43.8137,BRIANNA MURPHY,Canada,Canada,North America
+01-07-2017,10/20/2003,SO61645,2,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,CHRISTY HUANG,Southwest,United States,North America
+01-07-2017,9/14/2003,SO61645,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,CHRISTY HUANG,Southwest,United States,North America
+01-07-2017,10-12-2003,SO61645,1,"Road-750 Black, 58",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,58,U,343.6496,539.99,196.3404,CHRISTY HUANG,Southwest,United States,North America
+01-07-2017,09-12-2003,SO61639,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,COLIN YANG,Australia,Australia,Pacific
+01-07-2017,9/14/2003,SO61639,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,COLIN YANG,Australia,Australia,Pacific
+01-07-2017,10/15/2003,SO61639,1,"Road-250 Red, 58","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Red,58,U,1320.6838,2181.5625,860.8787,COLIN YANG,Australia,Australia,Pacific
+01-07-2017,9/15/2003,SO61639,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,COLIN YANG,Australia,Australia,Pacific
+01-07-2017,10/24/2003,SO61598,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,DALE NATH,Australia,Australia,Pacific
+01-07-2017,11-03-2003,SO61598,1,"Women's Mountain Shorts, S","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,S,W,26.1763,69.99,43.8137,DALE NATH,Australia,Australia,Pacific
+01-07-2017,11-04-2003,SO61598,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,DALE NATH,Australia,Australia,Pacific
+01-07-2017,10/24/2003,SO61633,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,DALTON HALL,Northwest,United States,North America
+01-07-2017,9/17/2003,SO61633,1,"Road-250 Black, 52","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Black,52,U,1320.6838,2181.5625,860.8787,DALTON HALL,Northwest,United States,North America
+01-07-2017,12/21/2003,SO61633,1,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,DALTON HALL,Northwest,United States,North America
+01-07-2017,11/25/2003,SO61616,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,DANIEL JACKSON,Northwest,United States,North America
+01-07-2017,10-01-2003,SO61616,1,"Classic Vest, L","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,L,U,23.749,63.5,39.751,DANIEL JACKSON,Northwest,United States,North America
+01-07-2017,12/20/2003,SO61616,1,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,DANIEL JACKSON,Northwest,United States,North America
+01-07-2017,11-09-2003,SO61651,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,DAVID ROSS,Canada,Canada,North America
+01-07-2017,10-12-2003,SO61651,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,DAVID ROSS,Canada,Canada,North America
+01-07-2017,10/16/2003,SO61651,1,"Road-350-W Yellow, 44","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,44,W,1082.51,1700.99,618.48,DAVID ROSS,Canada,Canada,North America
+01-07-2017,09-12-2003,SO61647,1,"Road-550-W Yellow, 40","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,40,W,605.6492,1000.4375,394.7883,DESTINY JACKSON,Northwest,United States,North America
+01-07-2017,11-11-2003,SO61647,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,DESTINY JACKSON,Northwest,United States,North America
+01-07-2017,12-11-2003,SO61621,2,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,DEVIN SANCHEZ,Northwest,United States,North America
+01-07-2017,12/17/2003,SO61621,1,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,DEVIN SANCHEZ,Northwest,United States,North America
+01-07-2017,9/20/2003,SO61628,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,DONNA RAI,United Kingdom,United Kingdom,Europe
+01-07-2017,12-04-2003,SO61628,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,DONNA RAI,United Kingdom,United Kingdom,Europe
+01-07-2017,12/18/2003,SO61628,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,DONNA RAI,United Kingdom,United Kingdom,Europe
+01-07-2017,12/16/2003,SO61630,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,EDWIN LIANG,Germany,Germany,Europe
+01-07-2017,10/27/2003,SO61615,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,ELIJAH KUMAR,Canada,Canada,North America
+01-07-2017,11/14/2003,SO61615,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,ELIJAH KUMAR,Canada,Canada,North America
+01-07-2017,11-02-2003,SO61615,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,ELIJAH KUMAR,Canada,Canada,North America
+01-07-2017,12-04-2003,SO61627,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,EMMA JENKINS,Germany,Germany,Europe
+01-07-2017,10/18/2003,SO61627,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,EMMA JENKINS,Germany,Germany,Europe
+01-07-2017,9/30/2003,SO61605,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,ETHAN KUMAR,Northwest,United States,North America
+01-07-2017,11/29/2003,SO61605,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,ETHAN KUMAR,Northwest,United States,North America
+01-07-2017,11/17/2003,SO61612,3,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,EVAN MORGAN,Canada,Canada,North America
+01-07-2017,11/16/2003,SO61612,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,EVAN MORGAN,Canada,Canada,North America
+01-07-2017,10-02-2003,SO61612,1,Hitch Rack - 4-Bike,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch.",NA,0,0,44.88,120,75.12,EVAN MORGAN,Canada,Canada,North America
+01-07-2017,9/21/2003,SO61612,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,EVAN MORGAN,Canada,Canada,North America
+01-07-2017,11-03-2003,SO61611,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,FERNANDO BARNES,Canada,Canada,North America
+01-07-2017,10-10-2003,SO61611,2,LL Road Tire,Same great treads as more expensive tire with a less expensive wire bead casing.,NA,0,0,8.0373,21.49,13.4527,FERNANDO BARNES,Canada,Canada,North America
+01-07-2017,10-06-2003,SO61611,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,FERNANDO BARNES,Canada,Canada,North America
+01-07-2017,12/22/2003,SO61634,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,FRANCISCO CHANDRA,Southwest,United States,North America
+01-07-2017,11/23/2003,SO61634,1,"Mountain-200 Black, 42",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,42,U,1105.81,2049.0982,943.2882,FRANCISCO CHANDRA,Southwest,United States,North America
+01-07-2017,9/17/2003,SO61634,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,FRANCISCO CHANDRA,Southwest,United States,North America
+01-07-2017,11-11-2003,SO61607,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,HAILEY COLLINS,Canada,Canada,North America
+01-07-2017,11-10-2003,SO61607,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,HAILEY COLLINS,Canada,Canada,North America
+01-07-2017,9/26/2003,SO61607,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,HAILEY COLLINS,Canada,Canada,North America
+01-07-2017,11/28/2003,SO61614,3,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,HAILEY PATTERSON,Canada,Canada,North America
+01-07-2017,9/15/2003,SO61614,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,HAILEY PATTERSON,Canada,Canada,North America
+01-07-2017,10/13/2003,SO61614,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,HAILEY PATTERSON,Canada,Canada,North America
+01-07-2017,12-03-2003,SO61614,2,ML Mountain Tire,"Great traction, high-density rubber.",NA,0,0,11.2163,29.99,18.7737,HAILEY PATTERSON,Canada,Canada,North America
+01-07-2017,11/17/2003,SO61614,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,HAILEY PATTERSON,Canada,Canada,North America
+01-07-2017,11-11-2003,SO61614,1,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,HAILEY PATTERSON,Canada,Canada,North America
+01-07-2017,12-04-2003,SO61610,3,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,HAROLD SANCHEZ,Southwest,United States,North America
+01-07-2017,11/23/2003,SO61610,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,HAROLD SANCHEZ,Southwest,United States,North America
+01-07-2017,11-05-2003,SO61610,1,Hitch Rack - 4-Bike,"Carries 4 bikes securely; steel construction, fits 2"" receiver hitch.",NA,0,0,44.88,120,75.12,HAROLD SANCHEZ,Southwest,United States,North America
+01-07-2017,12/19/2003,SO61624,2,ML Road Tire,Higher density rubber.,NA,0,0,9.3463,24.99,15.6437,HUNTER SCOTT,France,France,Europe
+01-07-2017,10/19/2003,SO61624,1,"Long-Sleeve Logo Jersey, S",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,S,U,31.7244,48.0673,16.3429,HUNTER SCOTT,France,France,Europe
+01-07-2017,12/22/2003,SO61624,1,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,HUNTER SCOTT,France,France,Europe
+01-07-2017,11-01-2003,SO61618,1,"Long-Sleeve Logo Jersey, S",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,S,U,31.7244,48.0673,16.3429,ISAIAH KING,Southwest,United States,North America
+01-07-2017,11/16/2003,SO61618,1,"Women's Mountain Shorts, M","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,M,W,26.1763,69.99,43.8137,ISAIAH KING,Southwest,United States,North America
+01-07-2017,10/20/2003,SO61655,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,ISAIAH RAMIREZ,Australia,Australia,Pacific
+01-07-2017,11/30/2003,SO61655,1,"Touring-1000 Yellow, 46",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,46,U,1481.9379,2384.07,902.1321,ISAIAH RAMIREZ,Australia,Australia,Pacific
+01-07-2017,11-11-2003,SO61629,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,JACLYN MA,Germany,Germany,Europe
+01-07-2017,10-03-2003,SO61629,1,"Long-Sleeve Logo Jersey, M",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,M,U,31.7244,48.0673,16.3429,JACLYN MA,Germany,Germany,Europe
+01-07-2017,11/27/2003,SO61629,1,Hydration Pack - 70 oz.,"Versatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.",Silver,70,0,20.5663,54.99,34.4237,JACLYN MA,Germany,Germany,Europe
+01-07-2017,10-09-2003,SO61642,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,JEREMY ROBERTS,Northwest,United States,North America
+01-07-2017,9/20/2003,SO61642,1,"Classic Vest, L","Light-weight, wind-resistant, packs to fit into a pocket.",Blue,L,U,23.749,63.5,39.751,JEREMY ROBERTS,Northwest,United States,North America
+01-07-2017,11-06-2003,SO61642,1,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,JEREMY ROBERTS,Northwest,United States,North America
+01-07-2017,10-02-2003,SO61642,1,"Touring-1000 Blue, 50",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Blue,50,U,1481.9379,2384.07,902.1321,JEREMY ROBERTS,Northwest,United States,North America
+01-07-2017,11/21/2003,SO61636,3,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,JILL MILLER,Canada,Canada,North America
+01-07-2017,11/16/2003,SO61636,1,"Mountain-200 Silver, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,46,U,1117.8559,2071.4196,953.5637,JILL MILLER,Canada,Canada,North America
+01-07-2017,10-05-2003,SO61626,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,JONATHON ALVAREZ,France,France,Europe
+01-07-2017,10-12-2003,SO61648,1,"Long-Sleeve Logo Jersey, XL",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,XL,U,31.7244,48.0673,16.3429,JORDAN ADAMS,Southwest,United States,North America
+01-07-2017,10/30/2003,SO61648,1,"Road-550-W Yellow, 42","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,42,W,605.6492,1000.4375,394.7883,JORDAN ADAMS,Southwest,United States,North America
+01-07-2017,11/29/2003,SO61648,1,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,JORDAN ADAMS,Southwest,United States,North America
+01-07-2017,12-01-2003,SO61603,2,Bike Wash - Dissolver,"Washes off the toughest road grime; dissolves grease, environmentally safe. 1-liter bottle.",NA,0,0,2.9733,7.95,4.9767,KATE ANAND,France,France,Europe
+01-07-2017,11/24/2003,SO61603,1,"Road-250 Black, 44","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Black,44,U,1320.6838,2181.5625,860.8787,KATE ANAND,France,France,Europe
+01-07-2017,12/14/2003,SO61635,2,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,KAYLEE KELLY,Southwest,United States,North America
+01-07-2017,11/17/2003,SO61635,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,KAYLEE KELLY,Southwest,United States,North America
+01-07-2017,11/21/2003,SO61635,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,KAYLEE KELLY,Southwest,United States,North America
+01-07-2017,10/29/2003,SO61635,1,"Long-Sleeve Logo Jersey, M",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,M,U,31.7244,48.0673,16.3429,KAYLEE KELLY,Southwest,United States,North America
+01-07-2017,10-05-2003,SO61635,1,"Mountain-200 Silver, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,38,U,1117.8559,2071.4196,953.5637,KAYLEE KELLY,Southwest,United States,North America
+01-07-2017,9/19/2003,SO61631,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,KEVIN EVANS,Southwest,United States,North America
+01-07-2017,10-07-2003,SO61631,1,"Long-Sleeve Logo Jersey, S",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,S,U,31.7244,48.0673,16.3429,KEVIN EVANS,Southwest,United States,North America
+01-07-2017,9/27/2003,SO61638,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,KRISTEN YE,United Kingdom,United Kingdom,Europe
+01-07-2017,12/13/2003,SO61638,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,KRISTEN YE,United Kingdom,United Kingdom,Europe
+01-07-2017,12/15/2003,SO61638,1,"Touring-2000 Blue, 50","The plush custom saddle keeps you riding all day,  and there's plenty of space to add panniers and bike bags to the newly-redesigned carrier.  This bike has stability when fully-loaded.",Blue,50,U,755.1508,1214.85,459.6992,KRISTEN YE,United Kingdom,United Kingdom,Europe
+01-07-2017,10-08-2003,SO61625,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,MELINDA VAZQUEZ,United Kingdom,United Kingdom,Europe
+01-07-2017,09-12-2003,SO61625,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,MELINDA VAZQUEZ,United Kingdom,United Kingdom,Europe
+01-07-2017,9/15/2003,SO61625,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,MELINDA VAZQUEZ,United Kingdom,United Kingdom,Europe
+01-07-2017,12-06-2003,SO61632,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,MIGUEL ALLEN,United Kingdom,United Kingdom,Europe
+01-07-2017,9/20/2003,SO61632,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,MIGUEL ALLEN,United Kingdom,United Kingdom,Europe
+01-07-2017,10-07-2003,SO61608,3,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,MYA BARNES,Southwest,United States,North America
+01-07-2017,11-02-2003,SO61608,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,MYA BARNES,Southwest,United States,North America
+01-07-2017,10/15/2003,SO61608,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,MYA BARNES,Southwest,United States,North America
+01-07-2017,11-05-2003,SO61608,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,MYA BARNES,Southwest,United States,North America
+01-07-2017,09-12-2003,SO61604,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,NATHAN HILL,United Kingdom,United Kingdom,Europe
+01-07-2017,9/29/2003,SO61604,1,"Mountain-200 Silver, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,38,U,1117.8559,2071.4196,953.5637,NATHAN HILL,United Kingdom,United Kingdom,Europe
+01-07-2017,11/13/2003,SO61620,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,NATHAN TURNER,Northwest,United States,North America
+01-07-2017,12-09-2003,SO61620,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,NATHAN TURNER,Northwest,United States,North America
+01-07-2017,12/23/2003,SO61620,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,NATHAN TURNER,Northwest,United States,North America
+01-07-2017,10/23/2003,SO61650,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,NATHAN SHARMA,Southwest,United States,North America
+01-07-2017,9/19/2003,SO61650,1,"Road-550-W Yellow, 42","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,42,W,605.6492,1000.4375,394.7883,NATHAN SHARMA,Southwest,United States,North America
+01-07-2017,12/19/2003,SO61609,3,"Racing Socks, L","Thin, lightweight and durable with cuffs that stay up.",White,L,U,3.3623,8.99,5.6277,NICHOLAS BROWN,Canada,Canada,North America
+01-07-2017,11-03-2003,SO61609,2,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,NICHOLAS BROWN,Canada,Canada,North America
+01-07-2017,9/24/2003,SO61609,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,NICHOLAS BROWN,Canada,Canada,North America
+01-07-2017,11-09-2003,SO61602,3,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,NICOLAS XIE,France,France,Europe
+01-07-2017,11-07-2003,SO61602,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,NICOLAS XIE,France,France,Europe
+01-07-2017,10/24/2003,SO61602,1,"Road-250 Black, 58","Alluminum-alloy frame provides a light, stiff ride, whether you are racing in the velodrome or on a demanding club ride on country roads.",Black,58,U,1320.6838,2181.5625,860.8787,NICOLAS XIE,France,France,Europe
+01-07-2017,9/16/2003,SO61602,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,NICOLAS XIE,France,France,Europe
+01-07-2017,12/13/2003,SO61637,1,"Mountain-200 Silver, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,38,U,1117.8559,2071.4196,953.5637,NICOLE BLUE,Northwest,United States,North America
+01-07-2017,9/22/2003,SO61601,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,NOAH LONG,France,France,Europe
+01-07-2017,10/28/2003,SO61601,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,NOAH LONG,France,France,Europe
+01-07-2017,11/17/2003,SO61601,1,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,NOAH LONG,France,France,Europe
+01-07-2017,12-12-2003,SO61601,1,"Road-350-W Yellow, 44","Cross-train, race, or just socialize on a sleek, aerodynamic bike designed for a woman.  Advanced seat technology provides comfort all day.",Yellow,44,W,1082.51,1700.99,618.48,NOAH LONG,France,France,Europe
+01-07-2017,10/17/2003,SO61646,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,RANDALL BLANCO,Canada,Canada,North America
+01-07-2017,12-07-2003,SO61646,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,RANDALL BLANCO,Canada,Canada,North America
+01-07-2017,11-03-2003,SO61646,1,"Road-750 Black, 58",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,58,U,343.6496,539.99,196.3404,RANDALL BLANCO,Canada,Canada,North America
+01-07-2017,12-10-2003,SO61656,1,"Short-Sleeve Classic Jersey, XL","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,XL,U,41.5723,53.99,12.4177,RANDALL GOMEZ,Australia,Australia,Pacific
+01-07-2017,10/17/2003,SO61656,1,"Touring-1000 Yellow, 60",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,60,U,1481.9379,2384.07,902.1321,RANDALL GOMEZ,Australia,Australia,Pacific
+01-07-2017,12-09-2003,SO61652,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,RAYMOND CHANDRA,France,France,Europe
+01-07-2017,9/13/2003,SO61652,1,"Road-750 Black, 44",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,44,U,343.6496,539.99,196.3404,RAYMOND CHANDRA,France,France,Europe
+01-07-2017,9/22/2003,SO61622,1,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,ROBIN TORRES,Southwest,United States,North America
+01-07-2017,9/14/2003,SO61619,3,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,SARA KING,Canada,Canada,North America
+01-07-2017,11/28/2003,SO61619,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,SARA KING,Canada,Canada,North America
+01-07-2017,10/31/2003,SO61640,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,SEAN RIVERA,Northwest,United States,North America
+01-07-2017,10-06-2003,SO61640,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,SEAN RIVERA,Northwest,United States,North America
+01-07-2017,10/13/2003,SO61640,1,"Touring-3000 Blue, 54","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Blue,54,U,461.4448,742.35,280.9052,SEAN RIVERA,Northwest,United States,North America
+01-07-2017,11-09-2003,SO61653,3,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,SERGIO RAMAN,Australia,Australia,Pacific
+01-07-2017,11-06-2003,SO61653,2,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,SERGIO RAMAN,Australia,Australia,Pacific
+01-07-2017,11-08-2003,SO61653,1,"Touring-1000 Blue, 46",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Blue,46,U,1481.9379,2384.07,902.1321,SERGIO RAMAN,Australia,Australia,Pacific
+01-07-2017,12/19/2003,SO61643,2,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,SHANNON ALONSO,Southwest,United States,North America
+01-07-2017,10/24/2003,SO61643,1,"Touring-1000 Yellow, 54",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Yellow,54,U,1481.9379,2384.07,902.1321,SHANNON ALONSO,Southwest,United States,North America
+01-07-2017,9/20/2003,SO61649,1,"Road-550-W Yellow, 38","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,38,W,605.6492,1000.4375,394.7883,SYDNEY HENDERSON,Southwest,United States,North America
+01-07-2017,9/14/2003,SO61600,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,TAMMY RODRIGUEZ,Australia,Australia,Pacific
+01-07-2017,11/17/2003,SO61606,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,THOMAS LEWIS,Northwest,United States,North America
+01-07-2017,10/15/2003,SO61606,2,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,THOMAS LEWIS,Northwest,United States,North America
+01-07-2017,11-12-2003,SO61606,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,THOMAS LEWIS,Northwest,United States,North America
+01-07-2017,09-09-2003,SO61641,1,"Sport-100 Helmet, Blue","Universal fit, well-vented, lightweight , snap-on visor.",Blue,0,0,12.0278,33.6442,21.6164,ZACHARY THOMPSON,Northwest,United States,North America
+01-07-2017,9/19/2003,SO61641,1,"Long-Sleeve Logo Jersey, L",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,L,U,31.7244,48.0673,16.3429,ZACHARY THOMPSON,Northwest,United States,North America
+01-07-2017,12/23/2003,SO61641,1,"Touring-1000 Blue, 60",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Blue,60,U,1481.9379,2384.07,902.1321,ZACHARY THOMPSON,Northwest,United States,North America
+01-08-2017,11-08-2003,SO61714,2,"Half-Finger Gloves, L","Full padding, improved finger flex, durable palm, adjustable closure.",Black,L,U,9.7136,23.5481,13.8345,AARON FOSTER,Canada,Canada,North America
+01-08-2017,11/14/2003,SO61714,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,AARON FOSTER,Canada,Canada,North America
+01-08-2017,10-03-2003,SO61714,1,"Sport-100 Helmet, Red","Universal fit, well-vented, lightweight , snap-on visor.",Red,0,0,13.0863,34.99,21.9037,AARON FOSTER,Canada,Canada,North America
+01-08-2017,9/19/2003,SO61714,1,"Mountain-200 Black, 38",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Black,38,U,1105.81,2049.0982,943.2882,AARON FOSTER,Canada,Canada,North America
+01-08-2017,11-10-2003,SO61714,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,AARON FOSTER,Canada,Canada,North America
+01-08-2017,10/25/2003,SO61723,3,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,ALBERT SERRANO,Canada,Canada,North America
+01-08-2017,12-01-2003,SO61723,1,Road Bottle Cage,Aluminum cage is lighter than our mountain version; perfect for long distance trips.,NA,0,0,3.3623,8.99,5.6277,ALBERT SERRANO,Canada,Canada,North America
+01-08-2017,12-02-2003,SO61723,1,"Touring-1000 Blue, 60",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Blue,60,U,1481.9379,2384.07,902.1321,ALBERT SERRANO,Canada,Canada,North America
+01-08-2017,12/24/2003,SO61682,3,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,ALEX WATSON,Southwest,United States,North America
+01-08-2017,11/21/2003,SO61682,2,LL Mountain Tire,"Comparible traction, less expensive wire bead casing.",NA,0,0,9.3463,24.99,15.6437,ALEX WATSON,Southwest,United States,North America
+01-08-2017,11/16/2003,SO61726,1,"Road-550-W Yellow, 48","Same technology as all of our Road series bikes, but the frame is sized for a woman.  Perfect all-around bike for road or racing.",Yellow,48,W,605.6492,1000.4375,394.7883,ALLISON HERNANDEZ,Southwest,United States,North America
+01-08-2017,9/28/2003,SO61726,1,"Short-Sleeve Classic Jersey, L","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,L,U,41.5723,53.99,12.4177,ALLISON HERNANDEZ,Southwest,United States,North America
+01-08-2017,12/19/2003,SO61717,3,Touring Tire,High-density rubber.,NA,0,0,10.8423,28.99,18.1477,ALVIN YANG,Germany,Germany,Europe
+01-08-2017,11-09-2003,SO61717,2,Touring Tire Tube,General purpose tube.,NA,0,0,1.8663,4.99,3.1237,ALVIN YANG,Germany,Germany,Europe
+01-08-2017,11/18/2003,SO61717,1,"Touring-3000 Blue, 62","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Blue,62,U,461.4448,742.35,280.9052,ALVIN YANG,Germany,Germany,Europe
+01-08-2017,11-09-2003,SO61691,2,"Half-Finger Gloves, S","Full padding, improved finger flex, durable palm, adjustable closure.",Black,S,U,9.7136,23.5481,13.8345,ANGEL SCOTT,Northwest,United States,North America
+01-08-2017,12/15/2003,SO61691,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,ANGEL SCOTT,Northwest,United States,North America
+01-08-2017,12-04-2003,SO61722,2,"Racing Socks, M","Thin, lightweight and durable with cuffs that stay up.",White,M,U,3.3623,8.99,5.6277,ARIANA WARD,Southwest,United States,North America
+01-08-2017,9/20/2003,SO61722,1,"Touring-3000 Yellow, 58","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Yellow,58,U,461.4448,742.35,280.9052,ARIANA WARD,Southwest,United States,North America
+01-08-2017,10-07-2003,SO61688,3,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,ARIANNA COX,Canada,Canada,North America
+01-08-2017,11/30/2003,SO61688,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,ARIANNA COX,Canada,Canada,North America
+01-08-2017,11-03-2003,SO61708,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,ARTURO MA,France,France,Europe
+01-08-2017,11-05-2003,SO61708,1,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,ARTURO MA,France,France,Europe
+01-08-2017,11-02-2003,SO61720,1,"Touring-3000 Yellow, 58","All-occasion value bike with our basic comfort and safety features. Offers wider, more stable tires for a ride around town or weekend trip.",Yellow,58,U,461.4448,742.35,280.9052,AUSTIN SHARMA,Northwest,United States,North America
+01-08-2017,10/13/2003,SO61686,2,Water Bottle - 30 oz.,AWC logo water bottle - holds 30 oz; leak-proof.,NA,0,0,1.8663,4.99,3.1237,BRANDON WASHINGTON,Southwest,United States,North America
+01-08-2017,9/18/2003,SO61686,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,BRANDON WASHINGTON,Southwest,United States,North America
+01-08-2017,11-07-2003,SO61686,1,"Short-Sleeve Classic Jersey, M","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,M,U,41.5723,53.99,12.4177,BRANDON WASHINGTON,Southwest,United States,North America
+01-08-2017,11-04-2003,SO61668,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,BRENDA CHANDRA,Germany,Germany,Europe
+01-08-2017,9/16/2003,SO61668,2,Fender Set - Mountain,Clip-on fenders fit most mountain bikes.,NA,0,0,8.2205,21.98,13.7595,BRENDA CHANDRA,Germany,Germany,Europe
+01-08-2017,9/13/2003,SO61668,1,"Mountain-200 Silver, 46",Serious back-country riding. Perfect for all levels of competition. Uses the same HL Frame as the Mountain-100.,Silver,46,U,1117.8559,2071.4196,953.5637,BRENDA CHANDRA,Germany,Germany,Europe
+01-08-2017,11/28/2003,SO61679,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,BRIANNA MILLER,Northwest,United States,North America
+01-08-2017,12/13/2003,SO61679,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,BRIANNA MILLER,Northwest,United States,North America
+01-08-2017,10/24/2003,SO61728,1,"Road-750 Black, 44",Entry level adult bike; offers a comfortable ride cross-country or down the block. Quick-release hubs and rims.,Black,44,U,343.6496,539.99,196.3404,BRIDGET SHARMA,France,France,Europe
+01-08-2017,12/20/2003,SO61680,2,Patch Kit/8 Patches,"Includes 8 different size patches, glue and sandpaper.",NA,0,0,0.8565,2.29,1.4335,BRITTNEY CAI,Northwest,United States,North America
+01-08-2017,11/28/2003,SO61680,2,Road Tire Tube,Conventional all-purpose tube.,NA,0,0,1.4923,3.99,2.4977,BRITTNEY CAI,Northwest,United States,North America
+01-08-2017,10/18/2003,SO61680,1,HL Road Tire,Lightweight carbon reinforced  for an unrivaled ride at an un-compromised weight.,NA,0,0,12.1924,32.6,20.4076,BRITTNEY CAI,Northwest,United States,North America
+01-08-2017,10/15/2003,SO61704,1,Mountain Tire Tube,Self-sealing tube.,NA,0,0,1.8663,4.99,3.1237,CALEB GONZALES,Southwest,United States,North America
+01-08-2017,10-08-2003,SO61704,1,HL Mountain Tire,"Incredible traction, lightweight carbon reinforced.",NA,0,0,13.09,35,21.91,CALEB GONZALES,Southwest,United States,North America
+01-08-2017,12/19/2003,SO61725,1,"Short-Sleeve Classic Jersey, S","Short sleeve classic breathable jersey with superior moisture control, front zipper, and 3 back pockets.",Yellow,S,U,41.5723,53.99,12.4177,CALEB SIMMONS,Canada,Canada,North America
+01-08-2017,9/18/2003,SO61725,1,"Touring-1000 Blue, 50",Travel in style and comfort. Designed for maximum comfort and safety. Wide gear range takes on all hills. High-tech aluminum alloy construction provides durability without added weight.,Blue,50,U,1481.9379,2384.07,902.1321,CALEB SIMMONS,Canada,Canada,North America
+01-08-2017,11/20/2003,SO61661,3,AWC Logo Cap,Traditional style with a flip-up brim; one-size fits all.,Multi,0,U,5.7052,8.6442,2.939,CALVIN SHEN,Australia,Australia,Pacific
+01-08-2017,9/29/2003,SO61661,1,"Women's Mountain Shorts, L","Heavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial chamois for comfort.",Black,L,W,26.1763,69.99,43.8137,CALVIN SHEN,Australia,Australia,Pacific
+01-08-2017,11-09-2003,SO61663,2,"Racing Socks, L","Thin, lightweight and durable with cuffs that stay up.",White,L,U,3.3623,8.99,5.6277,CALVIN NARA,Australia,Australia,Pacific
+01-08-2017,12/13/2003,SO61663,1,"Long-Sleeve Logo Jersey, M",Unisex long-sleeve AWC logo microfiber cycling jersey,Multi,M,U,31.7244,48.0673,16.3429,CALVIN NARA,Australia,Australia,Pacific
+01-08-2017,11-10-2003,SO61685,2,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,CARLOS HALL,Southwest,United States,North America
+01-08-2017,10/28/2003,SO61662,3,Mountain Bottle Cage,Tough aluminum cage holds bottle securly on tough terrain.,NA,0,0,3.7363,9.99,6.2537,CLAYTON XU,Australia,Australia,Pacific
+01-08-2017,11-02-2003,SO61662,1,"Sport-100 Helmet, Black","Universal fit, well-vented, lightweight , snap-on visor.",Black,0,0,12.0278,33.6442,21.6164,CLAYTON XU,Australia,Australia,Pacific
